@@ -1,0 +1,5 @@
+{
+  "_comment": "Public release history for Lumi, one entry per release, newest first. Written by .github/workflows/release.yml in the lumi source repo — but it is a plain file, so a wrong or awkward entry can be fixed with a commit here.",
+  "schemaVersion": 1,
+  "releases": []
+}
