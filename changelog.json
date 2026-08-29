@@ -1,5 +1,35 @@
 {
   "_comment": "Public release history for Lumi, one entry per release, newest first. Written by .github/workflows/release.yml in the lumi source repo — but it is a plain file, so a wrong or awkward entry can be fixed with a commit here.",
   "schemaVersion": 1,
-  "releases": []
+  "releases": [
+    {
+      "version": "1.0.0",
+      "tag": "lumi-v1.0.0",
+      "date": "2026-08-29",
+      "locales": {
+        "en": {
+          "headline": "First release with shortcuts, Hyper key, and snippets",
+          "items": [
+            "Global keyboard shortcuts launch apps and run commands",
+            "Caps Lock can act as a Hyper key for custom shortcuts",
+            "Text snippets expand as you type with dynamic variables like date and random names",
+            "Playground lets you test snippets without leaving the app",
+            "Onboarding tour guides you through setup on first launch",
+            "Icons throughout the interface make navigation clearer"
+          ]
+        },
+        "vi": {
+          "headline": "Phiên bản đầu tiên với phím tắt, Hyper key và snippet",
+          "items": [
+            "Phím tắt toàn cục mở ứng dụng và chạy lệnh",
+            "Caps Lock có thể hoạt động như phím Hyper cho các tổ hợp tùy chỉnh",
+            "Snippet văn bản tự động mở rộng khi gõ với biến động như ngày tháng và tên ngẫu nhiên",
+            "Playground cho phép thử nghiệm snippet ngay trong ứng dụng",
+            "Hướng dẫn ban đầu giúp thiết lập khi mở lần đầu",
+            "Biểu tượng khắp giao diện giúp điều hướng rõ ràng hơn"
+          ]
+        }
+      }
+    }
+  ]
 }
