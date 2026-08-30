@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.1.0",
+      "tag": "lumi-v1.1.0",
+      "date": "2026-08-30",
+      "locales": {
+        "en": {
+          "headline": "Appearance themes, expand keys, and global shortcut toggle",
+          "items": [
+            "You can now choose light, dark, or system appearance in settings",
+            "Added a toggle to quickly enable or disable all shortcuts at once",
+            "Snippets can now expand with a custom key instead of typing the trigger",
+            "Hyper key and snippet triggers now work better with punctuation",
+            "The app now starts at login by default on fresh installs",
+            "Inactive snippets now show helpful notes about why they are disabled"
+          ]
+        },
+        "vi": {
+          "headline": "Giao diện tùy chỉnh, phím mở rộng và bật tắt phím tắt",
+          "items": [
+            "Giờ bạn có thể chọn giao diện sáng, tối hoặc theo hệ thống trong cài đặt",
+            "Thêm nút bật tắt nhanh tất cả phím tắt cùng lúc",
+            "Snippet giờ có thể mở rộng bằng phím tùy chỉnh thay vì gõ trigger",
+            "Phím Hyper và trigger snippet hoạt động tốt hơn với dấu câu",
+            "Ứng dụng tự khởi động cùng hệ thống khi cài mới",
+            "Snippet không hoạt động giờ hiển thị ghi chú giải thích lý do"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.0.0",
       "tag": "lumi-v1.0.0",
       "date": "2026-08-29",
