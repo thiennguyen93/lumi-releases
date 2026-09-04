@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.2.0",
+      "tag": "lumi-v1.2.0",
+      "date": "2026-09-04",
+      "locales": {
+        "en": {
+          "headline": "Flows, window management, cursor effects, and Pro licensing",
+          "items": [
+            "Flows let you build multi-step automations with a visual editor",
+            "Arrange windows into slots and cycle through windows in the frontmost app",
+            "Cursor effects highlight your pointer with a halo or other visual cues",
+            "Double-tap modifier keys to trigger actions without holding them down",
+            "Pro licensing with Lemon Squeezy, including a license pane and confetti on activation",
+            "Caps Lock remapping now pauses when the screen is locked and cleans up on quit"
+          ]
+        },
+        "vi": {
+          "headline": "Flows, quản lý cửa sổ, hiệu ứng con trỏ và bản quyền Pro",
+          "items": [
+            "Flows cho phép xây dựng chuỗi tác vụ tự động bằng trình soạn thảo trực quan",
+            "Sắp xếp cửa sổ vào các vị trí và chuyển đổi giữa các cửa sổ của ứng dụng đang dùng",
+            "Hiệu ứng con trỏ làm nổi bật vị trí chuột bằng vầng sáng hoặc hình ảnh khác",
+            "Nhấn đúp phím bổ trợ để kích hoạt hành động mà không cần giữ phím",
+            "Bản quyền Pro qua Lemon Squeezy, có màn hình quản lý và hiệu ứng pháo hoa khi kích hoạt",
+            "Ánh xạ Caps Lock tạm dừng khi màn hình khóa và dọn dẹp khi thoát ứng dụng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.1.0",
       "tag": "lumi-v1.1.0",
       "date": "2026-08-30",
