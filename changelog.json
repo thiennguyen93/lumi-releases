@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.3.0",
+      "tag": "lumi-v1.3.0",
+      "date": "2026-09-05",
+      "locales": {
+        "en": {
+          "headline": "Leader menus, custom icons, flows, and clipboard variables",
+          "items": [
+            "Leader menus let you press a key then choose an action from an on-screen grid",
+            "Shortcuts can now have custom icons from a searchable library",
+            "Flows gain HTTP requests, text input, and tooltips showing what each node does",
+            "Text snippets can insert what is on the clipboard",
+            "Number fields in settings snap to round values as you drag"
+          ]
+        },
+        "vi": {
+          "headline": "Menu Leader, biểu tượng tùy chỉnh, luồng và biến clipboard",
+          "items": [
+            "Menu Leader cho phép bạn nhấn phím rồi chọn hành động từ lưới hiển thị trên màn hình",
+            "Phím tắt giờ có thể dùng biểu tượng tùy chỉnh từ thư viện có tìm kiếm",
+            "Luồng có thêm yêu cầu HTTP, nhập văn bản và chú giải hiện chức năng từng nút",
+            "Đoạn văn bản có thể chèn nội dung đang có trong clipboard",
+            "Trường số trong cài đặt tự căn về giá trị tròn khi bạn kéo"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.2.0",
       "tag": "lumi-v1.2.0",
       "date": "2026-09-04",
