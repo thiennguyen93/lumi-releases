@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.5.0",
+      "tag": "lumi-v1.5.0",
+      "date": "2026-09-06",
+      "locales": {
+        "en": {
+          "headline": "Window arrangement animations, power commands, and selected text",
+          "items": [
+            "Window arrangement now animates and lets you configure overhang",
+            "New variable for selected text in snippets and commands",
+            "Power commands to sleep, restart, or shut down your Mac",
+            "Overlay now appears on fullscreen windows",
+            "Window arrangement is more reliable when apps are slow to respond"
+          ]
+        },
+        "vi": {
+          "headline": "Hiệu ứng sắp xếp cửa sổ, lệnh nguồn và văn bản đã chọn",
+          "items": [
+            "Sắp xếp cửa sổ giờ có hiệu ứng và tùy chỉnh phần thừa",
+            "Biến mới cho văn bản đã chọn trong snippet và lệnh",
+            "Lệnh nguồn để ngủ, khởi động lại hoặc tắt máy Mac",
+            "Lớp phủ giờ xuất hiện trên cửa sổ toàn màn hình",
+            "Sắp xếp cửa sổ ổn định hơn khi ứng dụng phản hồi chậm"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.4.0",
       "tag": "lumi-v1.4.0",
       "date": "2026-09-06",
