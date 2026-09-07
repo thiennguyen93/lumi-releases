@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.1",
+      "tag": "lumi-v1.6.1",
+      "date": "2026-09-07",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Under-the-hood improvements",
+          "items": [
+            "Internal improvements and maintenance"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện bên trong",
+          "items": [
+            "Cải thiện và bảo trì nội bộ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.0",
       "tag": "lumi-v1.6.0",
       "date": "2026-09-07",
