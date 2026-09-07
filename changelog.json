@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.0",
+      "tag": "lumi-v1.6.0",
+      "date": "2026-09-07",
+      "locales": {
+        "en": {
+          "headline": "Toggle apps, name your flows, and grouped action picker",
+          "items": [
+            "You can now toggle apps open and closed instead of only launching them",
+            "Flows can be given custom names to help you organize your shortcuts",
+            "The action picker groups related actions under section headings",
+            "Alerts now appear at the bottom of the screen by default",
+            "Lumi no longer appears in the Dock when showing overlay windows"
+          ]
+        },
+        "vi": {
+          "headline": "Bật tắt ứng dụng, đặt tên flow và nhóm hành động",
+          "items": [
+            "Giờ bạn có thể bật tắt ứng dụng thay vì chỉ mở chúng",
+            "Flow có thể đặt tên riêng để dễ quản lý phím tắt",
+            "Bộ chọn hành động nhóm các mục liên quan theo từng phần",
+            "Thông báo giờ hiện ở dưới màn hình theo mặc định",
+            "Lumi không còn xuất hiện trong Dock khi hiển thị cửa sổ phủ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.5.0",
       "tag": "lumi-v1.5.0",
       "date": "2026-09-06",
