@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.2",
+      "tag": "lumi-v1.6.2",
+      "date": "2026-09-08",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Tab key now expands snippets",
+          "items": [
+            "You can now press Tab to expand a snippet, in addition to Space"
+          ]
+        },
+        "vi": {
+          "headline": "Phím Tab giờ đây kích hoạt snippet",
+          "items": [
+            "Bạn có thể nhấn Tab để kích hoạt snippet, ngoài phím Space"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.1",
       "tag": "lumi-v1.6.1",
       "date": "2026-09-07",
