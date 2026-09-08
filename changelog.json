@@ -3,6 +3,32 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.3",
+      "tag": "lumi-v1.6.3",
+      "date": "2026-09-08",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Reliability improvements and better error handling",
+          "items": [
+            "Finder now appears in the application picker",
+            "Configuration is protected from corruption and can recover from unknown entries",
+            "Move cursor action now shows error messages when it fails",
+            "Detects when secure input gets stuck and prevents shortcuts from working"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện độ ổn định và xử lý lỗi tốt hơn",
+          "items": [
+            "Finder giờ xuất hiện trong danh sách chọn ứng dụng",
+            "Cấu hình được bảo vệ khỏi hỏng và có thể phục hồi các mục không xác định",
+            "Thao tác di chuyển con trỏ giờ hiển thị thông báo lỗi khi thất bại",
+            "Phát hiện khi chế độ nhập bảo mật bị kẹt và ngăn phím tắt hoạt động"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.2",
       "tag": "lumi-v1.6.2",
       "date": "2026-09-08",
