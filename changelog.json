@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.4",
+      "tag": "lumi-v1.6.4",
+      "date": "2026-09-09",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Shortcut search and action improvements",
+          "items": [
+            "You can now record and filter shortcuts in the shortcut search",
+            "Actions that refuse to run now show a warning instead of an error"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện tìm kiếm phím tắt và hành động",
+          "items": [
+            "Giờ bạn có thể ghi lại và lọc phím tắt trong tìm kiếm phím tắt",
+            "Các hành động từ chối chạy giờ hiển thị cảnh báo thay vì lỗi"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.3",
       "tag": "lumi-v1.6.3",
       "date": "2026-09-08",
