@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.6.5",
+      "tag": "lumi-v1.6.5",
+      "date": "2026-09-09",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Manual run button for shortcuts",
+          "items": [
+            "Shortcuts now have a manual run button so you can trigger them without the keyboard"
+          ]
+        },
+        "vi": {
+          "headline": "Nút chạy thủ công cho phím tắt",
+          "items": [
+            "Phím tắt giờ có nút chạy thủ công để bạn kích hoạt mà không cần bàn phím"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.4",
       "tag": "lumi-v1.6.4",
       "date": "2026-09-09",
