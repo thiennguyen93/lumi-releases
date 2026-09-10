@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.7.0",
+      "tag": "lumi-v1.7.0",
+      "date": "2026-09-10",
+      "locales": {
+        "en": {
+          "headline": "Reorder, duplicate and move shortcuts",
+          "items": [
+            "Right-click a shortcut to duplicate it, move it to another menu, or delete it",
+            "Drag a shortcut to reorder it, and the list scrolls when you drag past its edge",
+            "A copy action now says Copied when it fires, with a switch to turn that off",
+            "The application picker now finds Chrome web apps and apps nested inside other apps",
+            "A menu row's button is an open folder, so it reads as opening the menu"
+          ]
+        },
+        "vi": {
+          "headline": "Sắp xếp, nhân bản và di chuyển phím tắt",
+          "items": [
+            "Nhấp chuột phải vào phím tắt để nhân bản, chuyển sang menu khác hoặc xóa",
+            "Kéo để đổi thứ tự phím tắt, danh sách tự cuộn khi bạn kéo quá mép",
+            "Hành động sao chép giờ báo Đã sao chép khi chạy, có thể tắt lời báo này",
+            "Bộ chọn ứng dụng giờ tìm được web app của Chrome và ứng dụng nằm lồng bên trong",
+            "Nút trên hàng menu là thư mục mở, cho thấy nó mở menu ra"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.6.5",
       "tag": "lumi-v1.6.5",
       "date": "2026-09-09",
