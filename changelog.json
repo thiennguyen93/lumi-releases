@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.7.1",
+      "tag": "lumi-v1.7.1",
+      "date": "2026-09-11",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Hyper key reliability improvements",
+          "items": [
+            "Hyper key now recovers automatically if it stops working"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện độ ổn định của phím Hyper",
+          "items": [
+            "Phím Hyper tự động khôi phục khi ngừng hoạt động"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.7.0",
       "tag": "lumi-v1.7.0",
       "date": "2026-09-10",
