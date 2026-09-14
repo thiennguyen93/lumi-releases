@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.7.2",
+      "tag": "lumi-v1.7.2",
+      "date": "2026-09-14",
+      "locales": {
+        "en": {
+          "headline": "Cursor movement now works when no window is focused",
+          "items": [
+            "Cursor movement shortcuts now work even when no window is focused"
+          ]
+        },
+        "vi": {
+          "headline": "Di chuyển con trỏ hoạt động khi không có cửa sổ nào được chọn",
+          "items": [
+            "Phím tắt di chuyển con trỏ giờ hoạt động ngay cả khi không có cửa sổ nào được chọn"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.7.1",
       "tag": "lumi-v1.7.1",
       "date": "2026-09-11",
