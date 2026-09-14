@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.8.0",
+      "tag": "lumi-v1.8.0",
+      "date": "2026-09-14",
+      "locales": {
+        "en": {
+          "headline": "Website icons and command shortcuts",
+          "items": [
+            "Shortcuts can now run shell commands directly",
+            "Website shortcuts automatically fetch and display favicons"
+          ]
+        },
+        "vi": {
+          "headline": "Biểu tượng trang web và lệnh tắt",
+          "items": [
+            "Phím tắt giờ có thể chạy lệnh shell trực tiếp",
+            "Phím tắt trang web tự động tải và hiển thị favicon"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.7.2",
       "tag": "lumi-v1.7.2",
       "date": "2026-09-14",
