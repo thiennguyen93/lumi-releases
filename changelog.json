@@ -6,6 +6,7 @@
       "version": "1.7.2",
       "tag": "lumi-v1.7.2",
       "date": "2026-09-14",
+      "maintenance": true,
       "locales": {
         "en": {
           "headline": "Cursor movement now works when no window is focused",
