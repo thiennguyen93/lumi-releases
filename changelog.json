@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.9.1",
+      "tag": "lumi-v1.9.1",
+      "date": "2026-09-15",
+      "locales": {
+        "en": {
+          "headline": "Keyboard shortcut reliability improvements",
+          "items": [
+            "Keyboard shortcuts now respond more reliably when modifier keys are pressed"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện độ tin cậy của phím tắt",
+          "items": [
+            "Phím tắt bàn phím giờ phản hồi chính xác hơn khi nhấn các phím bổ trợ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.9.0",
       "tag": "lumi-v1.9.0",
       "date": "2026-09-15",
