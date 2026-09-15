@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.9.0",
+      "tag": "lumi-v1.9.0",
+      "date": "2026-09-15",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Tap shortcuts and improved window arrangement",
+          "items": [
+            "You can now tap a key combination to trigger shortcuts instead of holding",
+            "Window arrangement works more reliably when moving windows between spaces"
+          ]
+        },
+        "vi": {
+          "headline": "Phím tắt nhấn nhanh và sắp xếp cửa sổ cải thiện",
+          "items": [
+            "Giờ bạn có thể nhấn nhanh tổ hợp phím để kích hoạt thay vì giữ",
+            "Sắp xếp cửa sổ hoạt động ổn định hơn khi di chuyển giữa các không gian"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.8.0",
       "tag": "lumi-v1.8.0",
       "date": "2026-09-14",
