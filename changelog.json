@@ -3,6 +3,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.10.0",
+      "tag": "lumi-v1.10.0",
+      "date": "2026-09-15",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Flow canvas notes and switch nodes",
+          "items": [
+            "You can now add note nodes to your flow canvas for annotations",
+            "New Switch control node lets you branch flows with multiple cases",
+            "Media action shortcuts now show the correct icon for each key"
+          ]
+        },
+        "vi": {
+          "headline": "Ghi chú trên canvas và nút phân nhánh",
+          "items": [
+            "Giờ bạn có thể thêm ghi chú vào canvas để chú thích luồng",
+            "Nút Switch mới cho phép phân nhánh luồng với nhiều trường hợp",
+            "Phím tắt điều khiển media giờ hiển thị đúng biểu tượng cho từng phím"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.9.1",
       "tag": "lumi-v1.9.1",
       "date": "2026-09-15",
