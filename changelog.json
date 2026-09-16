@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.10.1",
+      "tag": "lumi-v1.10.1",
+      "date": "2026-09-16",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Smoother first-time setup",
+          "items": [
+            "Keyboard shortcuts and Caps Lock remapping now wait until you finish onboarding"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện trải nghiệm lần đầu",
+          "items": [
+            "Phím tắt và chuyển đổi Caps Lock chỉ hoạt động sau khi hoàn tất thiết lập ban đầu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.10.0",
       "tag": "lumi-v1.10.0",
       "date": "2026-09-15",
