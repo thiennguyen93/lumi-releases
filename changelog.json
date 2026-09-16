@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.11.1",
+      "tag": "lumi-v1.11.1",
+      "date": "2026-09-16",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Snippet suggestions now work in Chrome and other browsers",
+          "items": [
+            "Snippet suggestions now appear in Chrome, Edge, and other Chromium browsers",
+            "Suggestions only show when typing in a text field, not when clicking or navigating"
+          ]
+        },
+        "vi": {
+          "headline": "Gợi ý snippet giờ hoạt động trên Chrome và các trình duyệt khác",
+          "items": [
+            "Gợi ý snippet giờ hiển thị trên Chrome, Edge và các trình duyệt Chromium khác",
+            "Gợi ý chỉ xuất hiện khi đang gõ trong ô nhập liệu, không hiện khi nhấp chuột hay di chuyển"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.11.0",
       "tag": "lumi-v1.11.0",
       "date": "2026-09-16",
