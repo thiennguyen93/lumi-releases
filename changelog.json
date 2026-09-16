@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.11.0",
+      "tag": "lumi-v1.11.0",
+      "date": "2026-09-16",
+      "locales": {
+        "en": {
+          "headline": "Inline suggestions and improved panel positioning",
+          "items": [
+            "Suggestions now appear right next to your cursor as you type",
+            "Fixed panels covering the line you are typing on"
+          ]
+        },
+        "vi": {
+          "headline": "Gợi ý nội tuyến và cải thiện vị trí bảng",
+          "items": [
+            "Gợi ý hiện xuất hiện ngay bên cạnh con trỏ khi bạn gõ",
+            "Sửa lỗi bảng che khuất dòng đang gõ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.10.1",
       "tag": "lumi-v1.10.1",
       "date": "2026-09-16",
