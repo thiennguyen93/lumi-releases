@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.13.0",
+      "tag": "lumi-v1.13.0",
+      "date": "2026-09-17",
+      "locales": {
+        "en": {
+          "headline": "Light theme and suggestion preview improvements",
+          "items": [
+            "The homepage now supports light theme",
+            "Suggestion panel shows a preview when it opens"
+          ]
+        },
+        "vi": {
+          "headline": "Giao diện sáng và cải tiến xem trước gợi ý",
+          "items": [
+            "Trang chủ giờ hỗ trợ giao diện sáng",
+            "Bảng gợi ý hiển thị xem trước khi mở"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.12.0",
       "tag": "lumi-v1.12.0",
       "date": "2026-09-17",
