@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.14.0",
+      "tag": "lumi-v1.14.0",
+      "date": "2026-09-18",
+      "locales": {
+        "en": {
+          "headline": "Shortcuts can now be scoped to multiple apps",
+          "items": [
+            "Shortcuts can be enabled or disabled in multiple apps at once"
+          ]
+        },
+        "vi": {
+          "headline": "Phím tắt giờ có thể áp dụng cho nhiều ứng dụng",
+          "items": [
+            "Phím tắt có thể bật hoặc tắt trong nhiều ứng dụng cùng lúc"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.13.0",
       "tag": "lumi-v1.13.0",
       "date": "2026-09-17",
