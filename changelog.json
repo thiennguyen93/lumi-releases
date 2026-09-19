@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.14.1",
+      "tag": "lumi-v1.14.1",
+      "date": "2026-09-19",
+      "locales": {
+        "en": {
+          "headline": "Update dialog now shows full release history",
+          "items": [
+            "The update dialog now displays the complete release history"
+          ]
+        },
+        "vi": {
+          "headline": "Hộp thoại cập nhật hiện hiển thị lịch sử phát hành đầy đủ",
+          "items": [
+            "Hộp thoại cập nhật giờ đây hiển thị toàn bộ lịch sử phát hành"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.14.0",
       "tag": "lumi-v1.14.0",
       "date": "2026-09-18",
