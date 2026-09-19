@@ -6,6 +6,7 @@
       "version": "1.14.1",
       "tag": "lumi-v1.14.1",
       "date": "2026-09-19",
+      "maintenance": true,
       "locales": {
         "en": {
           "headline": "Update dialog now shows full release history",
