@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.15.0",
+      "tag": "lumi-v1.15.0",
+      "date": "2026-09-19",
+      "locales": {
+        "en": {
+          "headline": "Profiles, clock variables, and selection transforms",
+          "items": [
+            "You can now create multiple profiles and switch between them",
+            "Clock variables show live-updating time in the leader menu",
+            "Double-click a snippet row to edit it",
+            "New variable for the frontmost app name",
+            "Transform selected text with uppercase, lowercase, or title case"
+          ]
+        },
+        "vi": {
+          "headline": "Hồ sơ, biến đồng hồ và chuyển đổi văn bản",
+          "items": [
+            "Giờ đây bạn có thể tạo nhiều hồ sơ và chuyển đổi giữa chúng",
+            "Biến đồng hồ hiển thị thời gian cập nhật trực tiếp trong menu leader",
+            "Nhấp đúp vào hàng snippet để chỉnh sửa",
+            "Biến mới cho tên ứng dụng đang hoạt động",
+            "Chuyển đổi văn bản đã chọn thành chữ hoa, chữ thường hoặc viết hoa đầu từ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.14.1",
       "tag": "lumi-v1.14.1",
       "date": "2026-09-19",
