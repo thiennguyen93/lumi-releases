@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.17.1",
+      "tag": "lumi-v1.17.1",
+      "date": "2026-09-20",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Keyboard shortcut reliability improvements",
+          "items": [
+            "Keyboard shortcuts now work consistently regardless of how key names are spelled"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện độ tin cậy của phím tắt",
+          "items": [
+            "Phím tắt giờ hoạt động ổn định bất kể cách viết tên phím như thế nào"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.17.0",
       "tag": "lumi-v1.17.0",
       "date": "2026-09-20",
