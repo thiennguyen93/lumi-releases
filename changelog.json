@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.16.0",
+      "tag": "lumi-v1.16.0",
+      "date": "2026-09-20",
+      "locales": {
+        "en": {
+          "headline": "Backup and restore with optional encryption",
+          "items": [
+            "You can now back up and restore your shortcuts, snippets, and settings",
+            "Backups can be encrypted with a password for extra security",
+            "The onboarding tour has smoother animations and a cleaner layout",
+            "You can drag the window by its title bar again"
+          ]
+        },
+        "vi": {
+          "headline": "Sao lưu và khôi phục có mã hóa tùy chọn",
+          "items": [
+            "Giờ bạn có thể sao lưu và khôi phục phím tắt, đoạn văn bản và cài đặt",
+            "Bản sao lưu có thể được mã hóa bằng mật khẩu để bảo mật hơn",
+            "Hướng dẫn ban đầu có hiệu ứng mượt hơn và bố cục gọn gàng hơn",
+            "Bạn có thể kéo cửa sổ bằng thanh tiêu đề như trước"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.15.0",
       "tag": "lumi-v1.15.0",
       "date": "2026-09-19",
