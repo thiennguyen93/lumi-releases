@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.17.0",
+      "tag": "lumi-v1.17.0",
+      "date": "2026-09-20",
+      "locales": {
+        "en": {
+          "headline": "Window controls and keystroke shortcuts",
+          "items": [
+            "Toggle full screen for the active window",
+            "Minimize the active window",
+            "Quit or force quit apps",
+            "Type keyboard shortcuts directly into the combo recorder"
+          ]
+        },
+        "vi": {
+          "headline": "Điều khiển cửa sổ và phím tắt",
+          "items": [
+            "Bật tắt toàn màn hình cho cửa sổ đang dùng",
+            "Thu nhỏ cửa sổ đang dùng",
+            "Thoát hoặc buộc thoát ứng dụng",
+            "Nhập tổ hợp phím trực tiếp vào trình ghi phím tắt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.16.0",
       "tag": "lumi-v1.16.0",
       "date": "2026-09-20",
