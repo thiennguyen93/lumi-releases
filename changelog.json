@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.18.0",
+      "tag": "lumi-v1.18.0",
+      "date": "2026-09-21",
+      "locales": {
+        "en": {
+          "headline": "Smarter app switching and secure input detection",
+          "items": [
+            "App shortcuts now remember which window you last used in each app",
+            "Lumi detects when secure input is stuck and shows a warning in the menu bar",
+            "Hiding apps works more reliably when the first method fails",
+            "Snippet settings now show the space key badge when space triggers expansion",
+            "Menu bar icons adapt correctly when you open the menu"
+          ]
+        },
+        "vi": {
+          "headline": "Chuyển ứng dụng thông minh hơn và phát hiện chế độ nhập bảo mật",
+          "items": [
+            "Phím tắt ứng dụng giờ nhớ cửa sổ bạn dùng gần nhất trong mỗi ứng dụng",
+            "Lumi phát hiện khi chế độ nhập bảo mật bị kẹt và hiện cảnh báo trên thanh menu",
+            "Ẩn ứng dụng hoạt động ổn định hơn khi phương thức đầu tiên thất bại",
+            "Cài đặt snippet giờ hiện biểu tượng phím space khi space kích hoạt mở rộng",
+            "Biểu tượng thanh menu thích ứng đúng khi bạn mở menu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.17.1",
       "tag": "lumi-v1.17.1",
       "date": "2026-09-20",
