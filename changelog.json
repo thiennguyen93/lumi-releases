@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.18.1",
+      "tag": "lumi-v1.18.1",
+      "date": "2026-09-21",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Bug fixes and stability improvements",
+          "items": [
+            "Fixed minor issues to improve overall stability"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi và cải thiện độ ổn định",
+          "items": [
+            "Khắc phục một số lỗi nhỏ để cải thiện độ ổn định tổng thể"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.18.0",
       "tag": "lumi-v1.18.0",
       "date": "2026-09-21",
