@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.18.2",
+      "tag": "lumi-v1.18.2",
+      "date": "2026-09-21",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Snippet editor fixes",
+          "items": [
+            "Clicking outside the snippet editor no longer closes it unexpectedly",
+            "Opening a snippet from the menu bar now works reliably"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi trình chỉnh sửa snippet",
+          "items": [
+            "Nhấp bên ngoài trình chỉnh sửa snippet không còn đóng cửa sổ ngoài ý muốn",
+            "Mở snippet từ thanh menu giờ hoạt động ổn định"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.18.1",
       "tag": "lumi-v1.18.1",
       "date": "2026-09-21",
