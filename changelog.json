@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.20.0",
+      "tag": "lumi-v1.20.0",
+      "date": "2026-09-24",
+      "locales": {
+        "en": {
+          "headline": "New actions for Caps Lock and switching spaces",
+          "items": [
+            "You can now toggle Caps Lock from a shortcut or snippet",
+            "Shortcuts can switch between macOS spaces and desktops"
+          ]
+        },
+        "vi": {
+          "headline": "Thêm thao tác Caps Lock và chuyển không gian làm việc",
+          "items": [
+            "Bạn có thể bật tắt Caps Lock từ phím tắt hoặc đoạn văn bản",
+            "Phím tắt có thể chuyển giữa các không gian làm việc trên macOS"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.19.0",
       "tag": "lumi-v1.19.0",
       "date": "2026-09-23",
