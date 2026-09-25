@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.21.0",
+      "tag": "lumi-v1.21.0",
+      "date": "2026-09-25",
+      "locales": {
+        "en": {
+          "headline": "Show Desktop action and improved flow editor",
+          "items": [
+            "You can now show the desktop with a shortcut, choosing between three states",
+            "The flow editor asks before closing if you have unsaved changes",
+            "The flow editor remembers your draft between sessions",
+            "Shortcuts can now be sorted and grouped in the order picker",
+            "Fixed a focus bug in popup lists"
+          ]
+        },
+        "vi": {
+          "headline": "Thao tác hiện desktop và trình soạn flow cải tiến",
+          "items": [
+            "Giờ bạn có thể hiện desktop bằng phím tắt, chọn giữa ba trạng thái",
+            "Trình soạn flow hỏi trước khi đóng nếu bạn có thay đổi chưa lưu",
+            "Trình soạn flow nhớ bản nháp giữa các phiên làm việc",
+            "Phím tắt giờ có thể sắp xếp và nhóm trong bộ chọn thứ tự",
+            "Sửa lỗi focus trong danh sách popup"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.20.0",
       "tag": "lumi-v1.20.0",
       "date": "2026-09-24",
