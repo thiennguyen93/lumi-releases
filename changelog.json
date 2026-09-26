@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.21.1",
+      "tag": "lumi-v1.21.1",
+      "date": "2026-09-26",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Improved function key handling",
+          "items": [
+            "Function key warnings no longer appear prematurely on first use"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện xử lý phím chức năng",
+          "items": [
+            "Cảnh báo phím chức năng không còn xuất hiện sớm khi sử dụng lần đầu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.21.0",
       "tag": "lumi-v1.21.0",
       "date": "2026-09-25",
