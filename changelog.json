@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.22.0",
+      "tag": "lumi-v1.22.0",
+      "date": "2026-09-28",
+      "locales": {
+        "en": {
+          "headline": "Extensions let you add custom features to Lumi",
+          "items": [
+            "Extensions can now be installed from a store and run inside Lumi",
+            "Developers can build extensions that hook into Lumi's lifecycle events"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giúp bạn thêm tính năng tùy chỉnh vào Lumi",
+          "items": [
+            "Giờ đây bạn có thể cài đặt tiện ích mở rộng từ cửa hàng và chạy trong Lumi",
+            "Nhà phát triển có thể tạo tiện ích mở rộng kết nối với các sự kiện của Lumi"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.21.1",
       "tag": "lumi-v1.21.1",
       "date": "2026-09-26",
