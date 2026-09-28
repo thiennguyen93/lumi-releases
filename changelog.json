@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.22.1",
+      "tag": "lumi-v1.22.1",
+      "date": "2026-09-28",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Window arrangement reliability improved",
+          "items": [
+            "Window arrangement now works more reliably when moving windows"
+          ]
+        },
+        "vi": {
+          "headline": "Cải thiện độ tin cậy khi sắp xếp cửa sổ",
+          "items": [
+            "Sắp xếp cửa sổ giờ hoạt động ổn định hơn khi di chuyển cửa sổ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.22.0",
       "tag": "lumi-v1.22.0",
       "date": "2026-09-28",
