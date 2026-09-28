@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.24.0",
+      "tag": "lumi-v1.24.0",
+      "date": "2026-09-28",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Function keys now work in shortcuts",
+          "items": [
+            "Function keys and Fn can now be used in keyboard shortcuts"
+          ]
+        },
+        "vi": {
+          "headline": "Phím chức năng giờ hoạt động trong phím tắt",
+          "items": [
+            "Phím chức năng và Fn giờ có thể dùng trong tổ hợp phím tắt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.23.0",
       "tag": "lumi-v1.23.0",
       "date": "2026-09-28",
