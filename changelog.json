@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.22.2",
+      "tag": "lumi-v1.22.2",
+      "date": "2026-09-28",
+      "locales": {
+        "en": {
+          "headline": "Fewer duplicate notifications",
+          "items": [
+            "Notifications about Fn key conflicts and secure input now appear only once in Settings"
+          ]
+        },
+        "vi": {
+          "headline": "Giảm thông báo trùng lặp",
+          "items": [
+            "Thông báo về xung đột phím Fn và chế độ nhập bảo mật giờ chỉ hiện một lần trong Cài đặt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.22.1",
       "tag": "lumi-v1.22.1",
       "date": "2026-09-28",
