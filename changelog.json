@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.23.0",
+      "tag": "lumi-v1.23.0",
+      "date": "2026-09-28",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now control the Hyper key and page focus",
+          "items": [
+            "Extensions can read and toggle the Hyper key without requesting extra permissions",
+            "Extensions can open pages that immediately accept keyboard input",
+            "Extensions can open pages without the tabs or settings tab visible"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể điều khiển phím Hyper và focus trang",
+          "items": [
+            "Tiện ích mở rộng có thể đọc và bật tắt phím Hyper mà không cần quyền bổ sung",
+            "Tiện ích mở rộng có thể mở trang nhận ngay đầu vào từ bàn phím",
+            "Tiện ích mở rộng có thể mở trang không hiển thị các tab hoặc tab cài đặt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.22.2",
       "tag": "lumi-v1.22.2",
       "date": "2026-09-28",
