@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.25.0",
+      "tag": "lumi-v1.25.0",
+      "date": "2026-09-29",
+      "locales": {
+        "en": {
+          "headline": "Clipboard manager support for extensions",
+          "items": [
+            "Extensions can now access and work with your clipboard history"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng hỗ trợ quản lý clipboard",
+          "items": [
+            "Tiện ích mở rộng giờ có thể truy cập và làm việc với lịch sử clipboard"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.24.0",
       "tag": "lumi-v1.24.0",
       "date": "2026-09-28",
