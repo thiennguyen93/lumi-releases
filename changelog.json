@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.26.0",
+      "tag": "lumi-v1.26.0",
+      "date": "2026-09-29",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now drag files and save downloads",
+          "items": [
+            "Extensions can drag and drop files from clipboard history",
+            "Extensions can save generated files to disk",
+            "Extensions can display app icons",
+            "Drag preview images now appear above the extension window",
+            "Extensions must validate settings before installation"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể kéo thả tệp và lưu tải xuống",
+          "items": [
+            "Tiện ích mở rộng có thể kéo thả tệp từ lịch sử clipboard",
+            "Tiện ích mở rộng có thể lưu tệp được tạo ra xuống ổ đĩa",
+            "Tiện ích mở rộng có thể hiển thị biểu tượng ứng dụng",
+            "Hình xem trước khi kéo giờ xuất hiện phía trên cửa sổ tiện ích",
+            "Tiện ích mở rộng phải xác thực cài đặt trước khi cài đặt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.25.0",
       "tag": "lumi-v1.25.0",
       "date": "2026-09-29",
