@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.27.0",
+      "tag": "lumi-v1.27.0",
+      "date": "2026-09-29",
+      "locales": {
+        "en": {
+          "headline": "Extension Store and per-extension keyboard shortcuts",
+          "items": [
+            "Browse and install extensions directly from the new Extension Store",
+            "Extensions can now register their own global keyboard shortcuts",
+            "Trusted extensions install without showing a confirmation sheet",
+            "Extension Store listings can include detailed descriptions"
+          ]
+        },
+        "vi": {
+          "headline": "Cửa hàng tiện ích mở rộng và phím tắt riêng cho từng tiện ích",
+          "items": [
+            "Duyệt và cài đặt tiện ích mở rộng trực tiếp từ Cửa hàng tiện ích mới",
+            "Tiện ích mở rộng giờ có thể đăng ký phím tắt toàn cục riêng",
+            "Tiện ích đáng tin cậy cài đặt mà không cần xác nhận",
+            "Danh sách trong Cửa hàng tiện ích có thể bao gồm mô tả chi tiết"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.26.0",
       "tag": "lumi-v1.26.0",
       "date": "2026-09-29",
