@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.28.0",
+      "tag": "lumi-v1.28.0",
+      "date": "2026-09-30",
+      "locales": {
+        "en": {
+          "headline": "Extension store improvements and interface refinements",
+          "items": [
+            "Extension install dialog now has a search filter and shows tooltips for actions",
+            "Store displays a loading animation while content is being fetched",
+            "Extension details now support rich markdown formatting",
+            "Store tabs no longer show a border under the breadcrumb navigation",
+            "Fixed an issue where blank pages could appear while the panel was open"
+          ]
+        },
+        "vi": {
+          "headline": "Cải tiến cửa hàng tiện ích mở rộng và giao diện",
+          "items": [
+            "Hộp thoại cài đặt tiện ích có thêm bộ lọc tìm kiếm và chú giải cho các thao tác",
+            "Cửa hàng hiển thị hiệu ứng tải khi đang lấy nội dung",
+            "Thông tin chi tiết tiện ích hỗ trợ định dạng markdown phong phú",
+            "Các tab cửa hàng không còn hiển thị đường viền dưới thanh điều hướng",
+            "Sửa lỗi trang trắng có thể xuất hiện khi bảng điều khiển đang mở"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.27.0",
       "tag": "lumi-v1.27.0",
       "date": "2026-09-29",
