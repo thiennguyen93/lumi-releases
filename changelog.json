@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.29.0",
+      "tag": "lumi-v1.29.0",
+      "date": "2026-09-30",
+      "locales": {
+        "en": {
+          "headline": "Pinned panels and faster text recognition",
+          "items": [
+            "Panels can now be pinned to stay on screen while you work",
+            "Tooltips appear above panels so they remain visible",
+            "Text recognition is faster when scanning the same image again"
+          ]
+        },
+        "vi": {
+          "headline": "Ghim bảng điều khiển và nhận dạng văn bản nhanh hơn",
+          "items": [
+            "Bảng điều khiển giờ có thể ghim để luôn hiển thị khi làm việc",
+            "Chú giải công cụ xuất hiện phía trên bảng điều khiển để luôn nhìn thấy",
+            "Nhận dạng văn bản nhanh hơn khi quét lại cùng một hình ảnh"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.28.0",
       "tag": "lumi-v1.28.0",
       "date": "2026-09-30",
