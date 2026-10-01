@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.31.0",
+      "tag": "lumi-v1.31.0",
+      "date": "2026-10-01",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now find and expand your snippets",
+          "items": [
+            "Extensions can ask what a snippet trigger expands to in any profile",
+            "The screen capture permission now shows a description when you install an extension",
+            "Extension pages update when you switch profiles or rename one"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể tìm và mở rộng snippet",
+          "items": [
+            "Tiện ích mở rộng có thể hỏi một trigger snippet mở rộng thành gì trong bất kỳ hồ sơ nào",
+            "Quyền chụp màn hình giờ hiển thị mô tả khi bạn cài tiện ích mở rộng",
+            "Trang tiện ích mở rộng cập nhật khi bạn chuyển hồ sơ hoặc đổi tên"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.30.0",
       "tag": "lumi-v1.30.0",
       "date": "2026-10-01",
