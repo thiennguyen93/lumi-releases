@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.30.0",
+      "tag": "lumi-v1.30.0",
+      "date": "2026-10-01",
+      "locales": {
+        "en": {
+          "headline": "Screen capture, window picker, and extension improvements",
+          "items": [
+            "Extension windows now have a unified title bar",
+            "Extensions can capture screen areas with a crosshair overlay",
+            "Extensions can pick windows and store up to 160 MB instead of 100 MB",
+            "Shortcuts list shows which extension owns each command",
+            "Uninstall sheet now says how much data will be deleted",
+            "Fixed a timing issue when resolving text snippet positions"
+          ]
+        },
+        "vi": {
+          "headline": "Chụp màn hình, chọn cửa sổ và cải tiến tiện ích mở rộng",
+          "items": [
+            "Cửa sổ tiện ích mở rộng giờ có thanh tiêu đề thống nhất",
+            "Tiện ích mở rộng có thể chụp vùng màn hình với lớp phủ dấu chữ thập",
+            "Tiện ích mở rộng có thể chọn cửa sổ và lưu tới 160 MB thay vì 100 MB",
+            "Danh sách phím tắt hiển thị tiện ích mở rộng nào sở hữu mỗi lệnh",
+            "Hộp thoại gỡ cài đặt giờ cho biết lượng dữ liệu sẽ bị xóa",
+            "Sửa lỗi thời gian khi xác định vị trí đoạn văn bản"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.29.0",
       "tag": "lumi-v1.29.0",
       "date": "2026-09-30",
