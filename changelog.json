@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.33.0",
+      "tag": "lumi-v1.33.0",
+      "date": "2026-10-02",
+      "locales": {
+        "en": {
+          "headline": "Copy text from your screen with OCR",
+          "items": [
+            "New action to copy text from anywhere on screen using optical character recognition",
+            "Screen Recording permission prompt guides you through setup when needed"
+          ]
+        },
+        "vi": {
+          "headline": "Sao chép văn bản từ màn hình bằng OCR",
+          "items": [
+            "Thao tác mới để sao chép văn bản từ bất kỳ đâu trên màn hình bằng nhận dạng ký tự quang học",
+            "Hướng dẫn cấp quyền Ghi màn hình khi cần thiết"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.32.0",
       "tag": "lumi-v1.32.0",
       "date": "2026-10-02",
