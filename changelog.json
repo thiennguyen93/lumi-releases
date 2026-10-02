@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.32.0",
+      "tag": "lumi-v1.32.0",
+      "date": "2026-10-02",
+      "locales": {
+        "en": {
+          "headline": "Changelog tab for extensions and stability improvements",
+          "items": [
+            "Extensions can now show a Changelog tab listing their release history",
+            "Extension developers can configure any tab with the new tabs section in the manifest",
+            "Fixed a crash that could happen when the interface updated"
+          ]
+        },
+        "vi": {
+          "headline": "Tab lịch sử phiên bản cho tiện ích mở rộng và cải thiện ổn định",
+          "items": [
+            "Tiện ích mở rộng giờ có thể hiển thị tab Changelog liệt kê lịch sử các phiên bản",
+            "Nhà phát triển tiện ích có thể cấu hình bất kỳ tab nào bằng phần tabs mới trong manifest",
+            "Sửa lỗi có thể gây crash khi giao diện cập nhật"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.31.0",
       "tag": "lumi-v1.31.0",
       "date": "2026-10-01",
