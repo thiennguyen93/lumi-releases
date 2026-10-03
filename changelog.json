@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.34.0",
+      "tag": "lumi-v1.34.0",
+      "date": "2026-10-03",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now show icons, read text from images, and more",
+          "items": [
+            "Extensions can show icons next to menu items",
+            "Extensions can read text from images using optical character recognition",
+            "Extensions can ask which app owns a window before capturing it",
+            "Crosshair guides appear when selecting an area of the screen to capture",
+            "Dragging an image out of an extension now works in all apps",
+            "Extension windows no longer flicker when resized"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giờ có thể hiển thị biểu tượng, đọc chữ từ ảnh và nhiều hơn",
+          "items": [
+            "Tiện ích có thể hiển thị biểu tượng bên cạnh mục menu",
+            "Tiện ích có thể đọc chữ từ ảnh bằng nhận dạng ký tự quang học",
+            "Tiện ích có thể hỏi ứng dụng nào sở hữu cửa sổ trước khi chụp",
+            "Đường dẫn hướng hình chữ thập xuất hiện khi chọn vùng màn hình để chụp",
+            "Kéo ảnh ra khỏi tiện ích giờ hoạt động trong mọi ứng dụng",
+            "Cửa sổ tiện ích không còn nhấp nháy khi thay đổi kích thước"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.33.0",
       "tag": "lumi-v1.33.0",
       "date": "2026-10-02",
