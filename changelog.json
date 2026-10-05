@@ -3,6 +3,32 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.36.1",
+      "tag": "lumi-v1.36.1",
+      "date": "2026-10-05",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Fixes for freezes when testing flows or pressing shortcuts",
+          "items": [
+            "Fixed Lumi freezing when you test a flow node that sends keystrokes or launches apps",
+            "Fixed Lumi freezing when you press a global shortcut during a profile switch or license change",
+            "Fixed Lumi freezing when the Settings window gains or loses focus while an extension is running",
+            "Fixed extension pages receiving extra keyboard events during macOS authentication dialogs"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi treo khi thử flow hoặc nhấn phím tắt",
+          "items": [
+            "Sửa lỗi Lumi bị treo khi bạn thử node flow gửi phím hoặc mở ứng dụng",
+            "Sửa lỗi Lumi bị treo khi bạn nhấn phím tắt toàn cục trong lúc chuyển profile hoặc đổi giấy phép",
+            "Sửa lỗi Lumi bị treo khi cửa sổ Cài đặt được chọn hoặc bỏ chọn trong lúc extension đang chạy",
+            "Sửa lỗi trang extension nhận thêm sự kiện bàn phím trong lúc hộp thoại xác thực macOS hiện ra"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.36.0",
       "tag": "lumi-v1.36.0",
       "date": "2026-10-05",
