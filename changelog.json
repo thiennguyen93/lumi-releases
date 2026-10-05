@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.36.0",
+      "tag": "lumi-v1.36.0",
+      "date": "2026-10-05",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now read images, save files, and control windows",
+          "items": [
+            "Extensions can read images from the clipboard and save files to disk",
+            "Extensions can set minimum window sizes and prevent accidental closes",
+            "Extensions receive events when windows enter or exit full screen",
+            "Extensions can detect screen capture and mark windows as capturable"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ đọc ảnh, lưu tệp và điều khiển cửa sổ",
+          "items": [
+            "Tiện ích mở rộng có thể đọc ảnh từ clipboard và lưu tệp vào ổ đĩa",
+            "Tiện ích mở rộng đặt kích thước tối thiểu và ngăn đóng cửa sổ nhầm",
+            "Tiện ích mở rộng nhận sự kiện khi cửa sổ vào hoặc thoát toàn màn hình",
+            "Tiện ích mở rộng phát hiện chụp màn hình và đánh dấu cửa sổ có thể chụp"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.35.0",
       "tag": "lumi-v1.35.0",
       "date": "2026-10-04",
