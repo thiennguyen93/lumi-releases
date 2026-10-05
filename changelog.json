@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.37.0",
+      "tag": "lumi-v1.37.0",
+      "date": "2026-10-05",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Extensions can now ask for authentication in commands and menu rows",
+          "items": [
+            "Extensions can show the macOS authentication dialog from commands and menu rows",
+            "Authentication requests now preserve keyboard handling when shown from a page"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể yêu cầu xác thực trong lệnh và menu",
+          "items": [
+            "Tiện ích mở rộng có thể hiển thị hộp thoại xác thực macOS từ lệnh và menu",
+            "Yêu cầu xác thực giờ giữ nguyên xử lý bàn phím khi hiển thị từ trang"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.36.1",
       "tag": "lumi-v1.36.1",
       "date": "2026-10-05",
