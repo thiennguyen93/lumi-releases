@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.39.0",
+      "tag": "lumi-v1.39.0",
+      "date": "2026-10-06",
+      "locales": {
+        "en": {
+          "headline": "Featured extensions carousel and visual improvements",
+          "items": [
+            "The store can now feature multiple extensions in a carousel that rotates every six seconds",
+            "Hover over the edges of the featured section to see navigation arrows",
+            "The carousel pauses when you hover over it or when motion is reduced",
+            "Featured extension images now cycle through with navigation dots grouped by extension"
+          ]
+        },
+        "vi": {
+          "headline": "Băng chuyền tiện ích nổi bật và cải tiến giao diện",
+          "items": [
+            "Cửa hàng giờ có thể giới thiệu nhiều tiện ích trong băng chuyền xoay sau mỗi sáu giây",
+            "Di chuột qua cạnh phần nổi bật để thấy mũi tên điều hướng",
+            "Băng chuyền tạm dừng khi bạn di chuột lên hoặc khi giảm chuyển động",
+            "Hình ảnh tiện ích nổi bật giờ xoay vòng với các chấm điều hướng theo từng tiện ích"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.38.0",
       "tag": "lumi-v1.38.0",
       "date": "2026-10-06",
