@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.38.0",
+      "tag": "lumi-v1.38.0",
+      "date": "2026-10-06",
+      "locales": {
+        "en": {
+          "headline": "Sheet dialogs and hold-to-trigger shortcuts",
+          "items": [
+            "Extensions can now show settings or prompts in sheet dialogs",
+            "Shortcuts can trigger actions when you hold a key or mouse button",
+            "Cursor no longer jumps when holding a pointer button to trigger an action"
+          ]
+        },
+        "vi": {
+          "headline": "Hộp thoại dạng sheet và phím tắt giữ để kích hoạt",
+          "items": [
+            "Tiện ích mở rộng giờ có thể hiển thị cài đặt hoặc thông báo trong hộp thoại dạng sheet",
+            "Phím tắt có thể kích hoạt hành động khi bạn giữ một phím hoặc nút chuột",
+            "Con trỏ không còn nhảy khi giữ nút chuột để kích hoạt hành động"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.37.0",
       "tag": "lumi-v1.37.0",
       "date": "2026-10-05",
