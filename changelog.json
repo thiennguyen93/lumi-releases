@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.41.1",
+      "tag": "lumi-v1.41.1",
+      "date": "2026-10-07",
+      "locales": {
+        "en": {
+          "headline": "Fixes for extension commands and keyboard shortcuts",
+          "items": [
+            "Extension command icons now match the menu bar's color scheme",
+            "Shift-Command-Z now works correctly in extension pages like Sticky Notes"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi lệnh tiện ích mở rộng và phím tắt",
+          "items": [
+            "Biểu tượng lệnh tiện ích giờ khớp màu với thanh menu",
+            "Shift-Command-Z giờ hoạt động đúng trong các trang tiện ích như Sticky Notes"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.41.0",
       "tag": "lumi-v1.41.0",
       "date": "2026-10-07",
