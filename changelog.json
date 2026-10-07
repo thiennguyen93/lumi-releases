@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.41.0",
+      "tag": "lumi-v1.41.0",
+      "date": "2026-10-07",
+      "locales": {
+        "en": {
+          "headline": "Panels can now skip the top band and extensions can reorder windows",
+          "items": [
+            "Panels can now have different overhang bands on each side or skip the top band entirely",
+            "Extensions can bring their own windows to the front without taking keyboard focus"
+          ]
+        },
+        "vi": {
+          "headline": "Panel giờ có thể bỏ viền trên và tiện ích sắp xếp lại cửa sổ",
+          "items": [
+            "Panel giờ có thể dùng viền overhang khác nhau cho mỗi cạnh hoặc bỏ viền trên",
+            "Tiện ích có thể đưa cửa sổ của mình lên trước mà không chiếm bàn phím"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.40.0",
       "tag": "lumi-v1.40.0",
       "date": "2026-10-07",
