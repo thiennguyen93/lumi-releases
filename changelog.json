@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.40.0",
+      "tag": "lumi-v1.40.0",
+      "date": "2026-10-07",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now remember window positions and download larger files",
+          "items": [
+            "Extensions can remember where you moved their windows",
+            "Extensions can download files up to the storage limit per file",
+            "Extension windows can now appear as panels attached to the menu bar",
+            "Download limits now count toward an extension's overall resource limits"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giờ nhớ vị trí cửa sổ và tải file lớn hơn",
+          "items": [
+            "Tiện ích nhớ vị trí cửa sổ bạn đã di chuyển",
+            "Tiện ích tải file lên đến giới hạn lưu trữ cho mỗi file",
+            "Cửa sổ tiện ích có thể hiện dạng bảng gắn vào thanh menu",
+            "Giới hạn tải xuống tính vào tổng tài nguyên của tiện ích"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.39.0",
       "tag": "lumi-v1.39.0",
       "date": "2026-10-06",
