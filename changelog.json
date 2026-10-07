@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.42.0",
+      "tag": "lumi-v1.42.0",
+      "date": "2026-10-07",
+      "locales": {
+        "en": {
+          "headline": "Extensions can resize panels and reopen windows after a quit",
+          "items": [
+            "Windows and panels marked restore reopen when Lumi starts if they were open",
+            "Panels can be resized by dragging any edge or corner",
+            "Command-Delete and Command-arrow keys now edit text in extension pages",
+            "Extension shortcuts are shown one per line with clearer status messages",
+            "Desktop panels can be dragged on the first click without focusing them first"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích thay đổi kích thước bảng và mở lại cửa sổ sau khi thoát",
+          "items": [
+            "Cửa sổ và bảng được đánh dấu restore sẽ mở lại khi Lumi khởi động nếu chúng đang mở",
+            "Bảng có thể thay đổi kích thước bằng cách kéo bất kỳ cạnh hoặc góc nào",
+            "Phím Command-Delete và Command-mũi tên giờ đây chỉnh sửa văn bản trong trang tiện ích",
+            "Phím tắt tiện ích hiển thị từng dòng với thông báo trạng thái rõ ràng hơn",
+            "Bảng trên desktop có thể kéo ngay lần nhấp đầu tiên mà không cần lấy tiêu điểm trước"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.41.1",
       "tag": "lumi-v1.41.1",
       "date": "2026-10-07",
