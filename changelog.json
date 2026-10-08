@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.42.1",
+      "tag": "lumi-v1.42.1",
+      "date": "2026-10-08",
+      "locales": {
+        "en": {
+          "headline": "Keyboard focus returns correctly when closing panels",
+          "items": [
+            "Closing a panel now returns keyboard focus to where you were typing, not to another Lumi panel"
+          ]
+        },
+        "vi": {
+          "headline": "Bàn phím quay về đúng chỗ khi đóng bảng điều khiển",
+          "items": [
+            "Đóng bảng điều khiển giờ trả lại con trỏ bàn phím về nơi bạn đang gõ, không phải sang bảng Lumi khác"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.42.0",
       "tag": "lumi-v1.42.0",
       "date": "2026-10-07",
