@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.44.0",
+      "tag": "lumi-v1.44.0",
+      "date": "2026-10-08",
+      "locales": {
+        "en": {
+          "headline": "Extensions preview downloads; you decide which show in the menu bar",
+          "items": [
+            "Extensions can now download just the first part of a file to preview it",
+            "Extensions can stream audio or other content back to their pages without saving it",
+            "Downloads no longer time out on slow connections as long as data keeps arriving",
+            "Each extension with menu bar rows has a Menu bar switch on its Permissions sheet: you decide if they show",
+            "Extensions can tell when you've hidden their rows, and take you to that switch"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích xem trước tệp tải về; bạn chọn cái nào hiện trên thanh menu",
+          "items": [
+            "Tiện ích giờ có thể tải chỉ phần đầu của tệp để xem trước",
+            "Tiện ích có thể phát âm thanh hoặc nội dung khác về trang mà không cần lưu",
+            "Tải xuống không còn hết thời gian trên kết nối chậm miễn là dữ liệu vẫn đến",
+            "Mỗi tiện ích có mục trên thanh menu có công tắc Menu bar trong bảng Permissions: bạn quyết định có hiện không",
+            "Tiện ích biết khi bạn ẩn mục của nó, và có thể đưa bạn tới công tắc đó"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.43.0",
       "tag": "lumi-v1.43.0",
       "date": "2026-10-08",
