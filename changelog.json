@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.44.1",
+      "tag": "lumi-v1.44.1",
+      "date": "2026-10-08",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Fixes crash when quitting with extension panels open",
+          "items": [
+            "Quitting the app with Command-Q no longer crashes if an extension panel is open"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi đóng ứng dụng khi có bảng tiện ích mở",
+          "items": [
+            "Thoát ứng dụng bằng Command-Q không còn gây đóng đột ngột nếu đang mở bảng tiện ích"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.44.0",
       "tag": "lumi-v1.44.0",
       "date": "2026-10-08",
