@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.43.0",
+      "tag": "lumi-v1.43.0",
+      "date": "2026-10-08",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now include demo videos",
+          "items": [
+            "Extensions can show a YouTube demo video in their details"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể thêm video demo",
+          "items": [
+            "Tiện ích mở rộng có thể hiển thị video demo YouTube trong phần chi tiết"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.42.1",
       "tag": "lumi-v1.42.1",
       "date": "2026-10-08",
