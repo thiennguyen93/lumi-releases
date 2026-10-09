@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.46.0",
+      "tag": "lumi-v1.46.0",
+      "date": "2026-10-09",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Faster clipboard extensions",
+          "items": [
+            "Clipboard extensions now trigger within a tenth of a second after copying",
+            "Extensions wait for the clipboard to update instead of guessing with a delay"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích clipboard nhanh hơn",
+          "items": [
+            "Tiện ích clipboard giờ kích hoạt trong vòng một phần mười giây sau khi sao chép",
+            "Tiện ích đợi clipboard cập nhật thay vì đoán bằng độ trễ cố định"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.45.0",
       "tag": "lumi-v1.45.0",
       "date": "2026-10-09",
