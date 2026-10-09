@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.45.0",
+      "tag": "lumi-v1.45.0",
+      "date": "2026-10-09",
+      "locales": {
+        "en": {
+          "headline": "Panels can now keep their page loaded and start ahead of time",
+          "items": [
+            "Panels can keep their page loaded when closed so they open instantly",
+            "Panels can load ahead when Lumi starts if you grant the preload permission",
+            "Menu bar and preload are now single switches you control on the Permissions sheet"
+          ]
+        },
+        "vi": {
+          "headline": "Panel giờ có thể giữ trang và tải trước khi mở",
+          "items": [
+            "Panel có thể giữ trang khi đóng để mở ngay lập tức",
+            "Panel có thể tải trước khi Lumi khởi động nếu bạn cấp quyền preload",
+            "Thanh menu và preload giờ là công tắc đơn bạn điều khiển trong bảng Quyền"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.44.1",
       "tag": "lumi-v1.44.1",
       "date": "2026-10-08",
