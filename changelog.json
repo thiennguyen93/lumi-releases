@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.46.1",
+      "tag": "lumi-v1.46.1",
+      "date": "2026-10-10",
+      "locales": {
+        "en": {
+          "headline": "Under-the-hood improvements",
+          "items": [
+            "Added logging to help diagnose a rare issue where panels lose keyboard focus"
+          ]
+        },
+        "vi": {
+          "headline": "Cải tiến nội bộ",
+          "items": [
+            "Thêm nhật ký để chẩn đoán lỗi hiếm gặp khi bảng điều khiển mất tiêu điểm bàn phím"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.46.0",
       "tag": "lumi-v1.46.0",
       "date": "2026-10-09",
