@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.48.0",
+      "tag": "lumi-v1.48.0",
+      "date": "2026-10-11",
+      "locales": {
+        "en": {
+          "headline": "Transient panels and selection replacement",
+          "items": [
+            "Transient panels now lift when you press a key",
+            "Extensions can replace the current selection and keep it selected",
+            "All panels now prevent the app behind them from activating"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng tạm thời và thay thế vùng chọn",
+          "items": [
+            "Bảng tạm thời tự động đóng khi bạn nhấn phím",
+            "Tiện ích mở rộng có thể thay thế vùng chọn và giữ nó được chọn",
+            "Tất cả bảng giờ đều không làm ứng dụng phía sau kích hoạt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.47.0",
       "tag": "lumi-v1.47.0",
       "date": "2026-10-11",
