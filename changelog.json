@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.47.0",
+      "tag": "lumi-v1.47.0",
+      "date": "2026-10-11",
+      "locales": {
+        "en": {
+          "headline": "Panels can now appear beside selected text in any app",
+          "items": [
+            "Panels can appear beside text you select and open automatically as you select",
+            "Selected text can be transformed without typing into read-only fields",
+            "Web selections are measured more accurately in Chrome, Safari and Electron apps",
+            "Panels can now be as small as 120 by 32 points"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng điều khiển giờ có thể hiện bên cạnh văn bản được chọn",
+          "items": [
+            "Bảng điều khiển có thể xuất hiện bên cạnh văn bản bạn chọn và tự động mở khi bạn chọn",
+            "Văn bản được chọn có thể được biến đổi mà không cần gõ vào trường chỉ đọc",
+            "Vùng chọn trên web được đo chính xác hơn trong Chrome, Safari và ứng dụng Electron",
+            "Bảng điều khiển giờ có thể nhỏ tới 120 x 32 điểm"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.46.1",
       "tag": "lumi-v1.46.1",
       "date": "2026-10-10",
