@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.49.0",
+      "tag": "lumi-v1.49.0",
+      "date": "2026-10-12",
+      "locales": {
+        "en": {
+          "headline": "New snippet expand mode",
+          "items": [
+            "Snippets can now be set to never expand as you type"
+          ]
+        },
+        "vi": {
+          "headline": "Chế độ mở rộng snippet mới",
+          "items": [
+            "Snippet giờ có thể được đặt để không bao giờ tự động mở rộng khi gõ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.48.0",
       "tag": "lumi-v1.48.0",
       "date": "2026-10-11",
