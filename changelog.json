@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.51.0",
+      "tag": "lumi-v1.51.0",
+      "date": "2026-10-14",
+      "locales": {
+        "en": {
+          "headline": "Extensions can translate text on your Mac",
+          "items": [
+            "Extensions can translate text using macOS's built-in translator without sending it anywhere",
+            "Extensions can check which languages are installed and ask macOS to download more if needed",
+            "Prompts from extensions no longer cause panels to move or close unexpectedly",
+            "Extension panels now know the corner radius to match Lumi's rounded edges"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng có thể dịch văn bản trên máy",
+          "items": [
+            "Tiện ích mở rộng dịch văn bản bằng trình dịch tích hợp của macOS mà không gửi đi đâu",
+            "Tiện ích mở rộng kiểm tra ngôn ngữ đã cài và yêu cầu macOS tải thêm nếu cần",
+            "Hộp thoại từ tiện ích mở rộng không còn làm bảng điều khiển di chuyển hay đóng bất ngờ",
+            "Bảng điều khiển tiện ích mở rộng giờ biết bán kính góc để khớp với viền bo tròn của Lumi"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.50.0",
       "tag": "lumi-v1.50.0",
       "date": "2026-10-14",
