@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.50.0",
+      "tag": "lumi-v1.50.0",
+      "date": "2026-10-14",
+      "locales": {
+        "en": {
+          "headline": "Selection panels stay put and wait for you to finish selecting",
+          "items": [
+            "Selection panels reposition when they grow too large for the display",
+            "Panels wait up to one second before appearing so triple-clicks can finish",
+            "Keyboard selections are reported once you stop moving the caret",
+            "Selection panels keep their position when the text they follow moves",
+            "Selections work in Visual Studio Code with screen reader support on or off",
+            "The same selection can trigger a panel again after you click or type"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng chọn giữ vị trí và đợi bạn chọn xong",
+          "items": [
+            "Bảng chọn tự chuyển vị trí khi quá lớn so với màn hình",
+            "Bảng đợi tới một giây trước khi hiện để bạn kịp nhấp ba lần",
+            "Chọn bằng phím được báo khi bạn ngừng di chuyển con trỏ soạn thảo",
+            "Bảng chọn giữ vị trí khi đoạn văn bản nó theo dõi di chuyển",
+            "Chọn văn bản hoạt động trong Visual Studio Code dù bật hay tắt hỗ trợ đọc màn hình",
+            "Cùng một đoạn chọn có thể kích hoạt bảng lại sau khi bạn nhấp hoặc gõ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.49.0",
       "tag": "lumi-v1.49.0",
       "date": "2026-10-12",
