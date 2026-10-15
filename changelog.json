@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.52.0",
+      "tag": "lumi-v1.52.0",
+      "date": "2026-10-15",
+      "locales": {
+        "en": {
+          "headline": "AI in Lumi, on your Mac or a provider you choose",
+          "items": [
+            "New AI settings: Apple Intelligence, Ollama, LM Studio and Claude Code on your Claude plan, all free",
+            "With Lumi Pro, add your own key for Anthropic, OpenAI, Google and other providers",
+            "Extensions can use the models you choose, and never see your keys",
+            "Lumi asks before an extension sends text off your Mac, and can run it on this Mac instead",
+            "A Playground in AI settings lets you chat with any model you set up",
+            "About no longer shows Pro for a license key denied on this Mac"
+          ]
+        },
+        "vi": {
+          "headline": "AI trong Lumi, chạy trên máy hoặc nhà cung cấp bạn chọn",
+          "items": [
+            "Cài đặt AI mới: Apple Intelligence, Ollama, LM Studio và Claude Code với gói Claude của bạn, đều miễn phí",
+            "Với Lumi Pro, dùng khóa riêng cho Anthropic, OpenAI, Google và các nhà cung cấp khác",
+            "Tiện ích mở rộng dùng được các mô hình bạn chọn, và không bao giờ thấy khóa của bạn",
+            "Lumi hỏi trước khi tiện ích gửi văn bản ra khỏi máy, và có thể chạy ngay trên máy này",
+            "Playground trong cài đặt AI để trò chuyện với mọi mô hình bạn đã thiết lập",
+            "Mục Giới thiệu không còn hiện Pro cho khóa bản quyền bị từ chối trên máy này"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.51.0",
       "tag": "lumi-v1.51.0",
       "date": "2026-10-14",
