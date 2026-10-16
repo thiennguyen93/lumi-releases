@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.53.0",
+      "tag": "lumi-v1.53.0",
+      "date": "2026-10-16",
+      "locales": {
+        "en": {
+          "headline": "Extensions can show tooltips and follow scrolling text",
+          "items": [
+            "Extension windows can show tooltips that appear instantly",
+            "Panels beside selected text now follow along when you scroll the page",
+            "Panels with keyboard focus also stay with the text as you scroll",
+            "Arrow keys and Page Up or Down scroll the page while keeping the panel visible",
+            "The Updates tab appears only when updates are available and closes after installing",
+            "Dropdown menus that open upward now sit flush against their field"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích hiển thị chú giải và theo dõi văn bản khi cuộn",
+          "items": [
+            "Cửa sổ tiện ích có thể hiển thị chú giải ngay lập tức",
+            "Bảng bên cạnh văn bản đã chọn giờ theo dõi khi bạn cuộn trang",
+            "Bảng đang nhập liệu cũng ở cùng vị trí với văn bản khi cuộn",
+            "Phím mũi tên và Page Up hoặc Down cuộn trang mà vẫn giữ bảng hiển thị",
+            "Tab Cập nhật chỉ xuất hiện khi có bản cập nhật và đóng sau khi cài đặt",
+            "Menu mở lên trên giờ sát với ô nhập liệu của nó"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.52.0",
       "tag": "lumi-v1.52.0",
       "date": "2026-10-15",
