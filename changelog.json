@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.54.0",
+      "tag": "lumi-v1.54.0",
+      "date": "2026-10-17",
+      "locales": {
+        "en": {
+          "headline": "Panels can now respond to modifier keys and save settings reliably",
+          "items": [
+            "Panels beside the selection can now detect when you hold shift, control, option or command",
+            "Panels beside the selection that were hidden and shown again now close on the next key as expected",
+            "Saving two settings at the same time no longer causes one to be lost"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng điều khiển phản ứng với phím bổ trợ và lưu cài đặt ổn định hơn",
+          "items": [
+            "Bảng điều khiển bên cạnh vùng chọn giờ có thể nhận biết khi bạn giữ shift, control, option hoặc command",
+            "Bảng điều khiển bên cạnh vùng chọn được ẩn rồi hiện lại giờ đóng lại đúng cách khi nhấn phím tiếp theo",
+            "Lưu hai cài đặt cùng lúc không còn làm mất một trong hai nữa"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.53.0",
       "tag": "lumi-v1.53.0",
       "date": "2026-10-16",
