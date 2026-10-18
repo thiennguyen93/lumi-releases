@@ -3,6 +3,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.54.2",
+      "tag": "lumi-v1.54.2",
+      "date": "2026-10-18",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Fixes for asking before text goes online",
+          "items": [
+            "A panel with a text field no longer closes when Lumi asks before its text goes online",
+            "“Don’t ask again” now starts checked, so each extension is asked once",
+            "Leave it unchecked and Lumi asks that extension every time"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi khi hỏi trước lúc gửi văn bản lên mạng",
+          "items": [
+            "Bảng có ô nhập của tiện ích không còn tự đóng khi Lumi hỏi trước lúc gửi văn bản lên mạng",
+            "Ô “Don’t ask again” giờ được chọn sẵn, mỗi tiện ích chỉ bị hỏi một lần",
+            "Bỏ chọn ô này thì Lumi sẽ hỏi tiện ích đó mỗi lần"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.54.0",
       "tag": "lumi-v1.54.0",
       "date": "2026-10-17",
