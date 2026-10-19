@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.55.0",
+      "tag": "lumi-v1.55.0",
+      "date": "2026-10-19",
+      "locales": {
+        "en": {
+          "headline": "Extensions can look up words in macOS dictionaries",
+          "items": [
+            "Extensions can look up words in the dictionaries built into macOS",
+            "An extension can open the Dictionary app at a word, or where you turn on more dictionaries"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng có thể tra từ trong từ điển macOS",
+          "items": [
+            "Tiện ích mở rộng có thể tra từ trong các từ điển có sẵn của macOS",
+            "Tiện ích mở rộng có thể mở ứng dụng Từ điển tại một từ, hoặc nơi bạn bật thêm từ điển"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.54.2",
       "tag": "lumi-v1.54.2",
       "date": "2026-10-18",
