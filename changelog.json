@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.56.0",
+      "tag": "lumi-v1.56.0",
+      "date": "2026-10-19",
+      "locales": {
+        "en": {
+          "headline": "Extensions can embed web pages and feature flags are now configurable",
+          "items": [
+            "Extensions can now display web pages within their windows",
+            "Feature flags can now carry custom text values for extensions to read",
+            "Claude Code is found in more installation locations and the newest version runs",
+            "Local network setting renamed and moved to General Advanced settings",
+            "Chromium browser support setting moved to General Advanced settings",
+            "Update dialog now responds to clicks when extension pages are open"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích nhúng trang web và cờ tính năng có thể cấu hình",
+          "items": [
+            "Tiện ích mở rộng giờ có thể hiển thị trang web trong cửa sổ của chúng",
+            "Cờ tính năng giờ có thể mang giá trị văn bản tùy chỉnh để tiện ích đọc",
+            "Claude Code được tìm thấy ở nhiều vị trí cài đặt hơn và phiên bản mới nhất chạy",
+            "Cài đặt mạng cục bộ được đổi tên và chuyển sang Cài đặt nâng cao chung",
+            "Cài đặt hỗ trợ trình duyệt Chromium chuyển sang Cài đặt nâng cao chung",
+            "Hộp thoại cập nhật giờ phản hồi nhấp chuột khi trang tiện ích đang mở"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.55.0",
       "tag": "lumi-v1.55.0",
       "date": "2026-10-19",
