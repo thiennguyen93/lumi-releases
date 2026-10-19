@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.57.0",
+      "tag": "lumi-v1.57.0",
+      "date": "2026-10-19",
+      "locales": {
+        "en": {
+          "headline": "Web pages can now be hidden and reloaded in place",
+          "items": [
+            "Web pages can be kept loaded but hidden, then shown again without reloading",
+            "Hidden pages remember their scroll position when brought back",
+            "Pages can be reloaded in place, like a browser refresh"
+          ]
+        },
+        "vi": {
+          "headline": "Trang web giờ có thể ẩn và tải lại tại chỗ",
+          "items": [
+            "Trang web có thể giữ đã tải nhưng ẩn đi, rồi hiện lại mà không cần tải lại",
+            "Trang đã ẩn nhớ vị trí cuộn khi được mở lại",
+            "Trang có thể tải lại tại chỗ, giống như làm mới trình duyệt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.56.0",
       "tag": "lumi-v1.56.0",
       "date": "2026-10-19",
