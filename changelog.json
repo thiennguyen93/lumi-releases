@@ -31,10 +31,9 @@
       "date": "2026-10-19",
       "locales": {
         "en": {
-          "headline": "Extensions can embed web pages and feature flags are now configurable",
+          "headline": "Extensions can now show web pages in their windows",
           "items": [
             "Extensions can now display web pages within their windows",
-            "Feature flags can now carry custom text values for extensions to read",
             "Claude Code is found in more installation locations and the newest version runs",
             "Local network setting renamed and moved to General Advanced settings",
             "Chromium browser support setting moved to General Advanced settings",
@@ -42,10 +41,9 @@
           ]
         },
         "vi": {
-          "headline": "Tiện ích nhúng trang web và cờ tính năng có thể cấu hình",
+          "headline": "Tiện ích giờ có thể hiển thị trang web trong cửa sổ",
           "items": [
             "Tiện ích mở rộng giờ có thể hiển thị trang web trong cửa sổ của chúng",
-            "Cờ tính năng giờ có thể mang giá trị văn bản tùy chỉnh để tiện ích đọc",
             "Claude Code được tìm thấy ở nhiều vị trí cài đặt hơn và phiên bản mới nhất chạy",
             "Cài đặt mạng cục bộ được đổi tên và chuyển sang Cài đặt nâng cao chung",
             "Cài đặt hỗ trợ trình duyệt Chromium chuyển sang Cài đặt nâng cao chung",
