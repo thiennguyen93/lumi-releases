@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.58.0",
+      "tag": "lumi-v1.58.0",
+      "date": "2026-10-20",
+      "locales": {
+        "en": {
+          "headline": "Web pages in extensions work better",
+          "items": [
+            "Typing in a web page shown beside your selection now goes into that page, not over the text you selected",
+            "Web pages in extensions can use a site's mobile layout, so search results fit",
+            "An extension can keep several web pages open in one window and switch between them without reloading"
+          ]
+        },
+        "vi": {
+          "headline": "Trang web trong tiện ích hoạt động tốt hơn",
+          "items": [
+            "Gõ vào trang web hiện cạnh vùng chọn giờ đi vào trang đó, không đè lên chữ bạn đang chọn",
+            "Trang web trong tiện ích có thể dùng giao diện di động của trang, nên kết quả tìm kiếm vừa khung",
+            "Một tiện ích có thể giữ nhiều trang web trong một cửa sổ và chuyển qua lại mà không tải lại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.57.0",
       "tag": "lumi-v1.57.0",
       "date": "2026-10-19",
