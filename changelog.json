@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.59.0",
+      "tag": "lumi-v1.59.0",
+      "date": "2026-10-21",
+      "locales": {
+        "en": {
+          "headline": "Extensions can set timers and copy selections with formatting",
+          "items": [
+            "Extensions can set timers to run at specific times, even when closed",
+            "Extensions can copy selections with the app's own formatting and links",
+            "Extensions can read this Mac's time zone to show local times",
+            "Notifications now look like macOS system notifications",
+            "The Extension Store uses a Back button instead of a breadcrumb",
+            "Selections with images are protected from being overwritten"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích có thể đặt hẹn giờ và sao chép với định dạng",
+          "items": [
+            "Tiện ích có thể đặt hẹn giờ chạy vào thời điểm cụ thể ngay cả khi đã đóng",
+            "Tiện ích có thể sao chép vùng chọn với định dạng và liên kết gốc của ứng dụng",
+            "Tiện ích có thể đọc múi giờ của máy Mac này để hiển thị giờ địa phương",
+            "Thông báo giờ trông giống thông báo hệ thống macOS",
+            "Cửa hàng tiện ích dùng nút Quay lại thay vì đường dẫn",
+            "Vùng chọn có hình ảnh được bảo vệ khỏi bị ghi đè"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.58.0",
       "tag": "lumi-v1.58.0",
       "date": "2026-10-20",
