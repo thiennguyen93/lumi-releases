@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.60.0",
+      "tag": "lumi-v1.60.0",
+      "date": "2026-10-21",
+      "locales": {
+        "en": {
+          "headline": "Extensions can run on a schedule, and the menu bar icon stays visible",
+          "items": [
+            "Extensions can now run on a schedule using cron expressions like hourly or daily",
+            "The menu bar icon no longer disappears when the profile name is too long to fit",
+            "When the profile name does not fit, it is hidden but the icon remains visible",
+            "Settings now shows when a profile name has been hidden to keep the icon visible"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích chạy theo lịch và biểu tượng thanh menu luôn hiển thị",
+          "items": [
+            "Tiện ích giờ có thể chạy theo lịch bằng biểu thức cron như mỗi giờ hoặc mỗi ngày",
+            "Biểu tượng thanh menu không còn biến mất khi tên hồ sơ quá dài",
+            "Khi tên hồ sơ không vừa, tên sẽ bị ẩn nhưng biểu tượng vẫn hiển thị",
+            "Cài đặt giờ hiển thị khi tên hồ sơ bị ẩn để giữ biểu tượng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.59.0",
       "tag": "lumi-v1.59.0",
       "date": "2026-10-21",
