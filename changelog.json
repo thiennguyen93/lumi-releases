@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.61.0",
+      "tag": "lumi-v1.61.0",
+      "date": "2026-10-22",
+      "locales": {
+        "en": {
+          "headline": "Extensions can add menu bar items and handle typing",
+          "items": [
+            "Extensions can add their own items to the menu bar with custom icons and menus",
+            "Extensions can intercept and transform what you type in any app",
+            "Extension panels remember whether you set them to light or dark mode",
+            "Extension menu bar items return to where you placed them after being hidden",
+            "Scroll bars in extension pages appear beside content instead of over it",
+            "Typing through extensions now works correctly in Visual Studio Code"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng có thể thêm mục thanh menu và xử lý gõ phím",
+          "items": [
+            "Tiện ích mở rộng có thể thêm mục riêng vào thanh menu với biểu tượng và menu tùy chỉnh",
+            "Tiện ích mở rộng có thể chặn và biến đổi những gì bạn gõ trong bất kỳ ứng dụng nào",
+            "Bảng điều khiển tiện ích mở rộng nhớ chế độ sáng hay tối bạn đã chọn",
+            "Mục thanh menu của tiện ích mở rộng quay về vị trí bạn đặt sau khi bị ẩn",
+            "Thanh cuộn trong trang tiện ích mở rộng hiện bên cạnh nội dung thay vì đè lên",
+            "Gõ phím qua tiện ích mở rộng giờ hoạt động đúng trong Visual Studio Code"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.60.0",
       "tag": "lumi-v1.60.0",
       "date": "2026-10-21",
