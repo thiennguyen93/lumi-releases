@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.62.0",
+      "tag": "lumi-v1.62.0",
+      "date": "2026-10-22",
+      "locales": {
+        "en": {
+          "headline": "Modifier taps and menu bar fixes",
+          "items": [
+            "You can now trigger shortcuts by pressing and releasing two or more modifiers together",
+            "Clicking a menu bar item while Lumi's menu is open now works as expected",
+            "Clicking another of Lumi's menu bar items now closes any open panel",
+            "Modifier tap shortcuts set while Lumi is running now work immediately"
+          ]
+        },
+        "vi": {
+          "headline": "Phím tắt modifier và sửa lỗi thanh menu",
+          "items": [
+            "Giờ bạn có thể kích hoạt phím tắt bằng cách nhấn và thả hai phím modifier trở lên cùng lúc",
+            "Nhấp vào biểu tượng thanh menu khi menu Lumi đang mở giờ hoạt động đúng",
+            "Nhấp vào biểu tượng Lumi khác trên thanh menu giờ đóng bảng điều khiển đang mở",
+            "Phím tắt modifier tap đặt khi Lumi đang chạy giờ hoạt động ngay lập tức"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.61.0",
       "tag": "lumi-v1.61.0",
       "date": "2026-10-22",
