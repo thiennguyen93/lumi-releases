@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.63.0",
+      "tag": "lumi-v1.63.0",
+      "date": "2026-10-23",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Extension store and modifier-tap shortcut fixes",
+          "items": [
+            "Extension store pages now show a link to the extension's source code",
+            "Modifier-tap shortcuts display correctly as fn ⇧ in the store and review sheet"
+          ]
+        },
+        "vi": {
+          "headline": "Cửa hàng tiện ích mở rộng và sửa lỗi phím tắt",
+          "items": [
+            "Trang cửa hàng tiện ích mở rộng giờ hiển thị liên kết đến mã nguồn",
+            "Phím tắt modifier-tap hiển thị đúng dạng fn ⇧ trong cửa hàng và bảng xem lại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.62.0",
       "tag": "lumi-v1.62.0",
       "date": "2026-10-22",
