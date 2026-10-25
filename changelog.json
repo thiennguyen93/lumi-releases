@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.64.0",
+      "tag": "lumi-v1.64.0",
+      "date": "2026-10-25",
+      "locales": {
+        "en": {
+          "headline": "Speech to text, speaker recognition and text models on this Mac",
+          "items": [
+            "Extensions can now transcribe speech from recordings, the microphone, or system audio",
+            "Apple Speech transcribes on macOS 26, and Lumi Models now identifies speakers",
+            "OpenAI and Groq transcribe speech on your own API key",
+            "Extensions can remember voices and see who is speaking in their recordings",
+            "The AI pane reorganizes providers into groups with filtered model lists",
+            "Lumi Models now writes text on this Mac with four free models, Qwen3 and Gemma 3"
+          ]
+        },
+        "vi": {
+          "headline": "Giọng nói thành chữ, nhận diện người nói và mô hình chữ trên máy Mac",
+          "items": [
+            "Tiện ích giờ có thể chuyển giọng nói thành văn bản từ file ghi âm, micro hoặc âm thanh hệ thống",
+            "Apple Speech chuyển đổi trên macOS 26, và Lumi Models giờ nhận diện người nói",
+            "OpenAI và Groq chuyển đổi giọng nói bằng khóa API của bạn",
+            "Tiện ích có thể ghi nhớ giọng nói và biết ai đang nói trong bản ghi âm",
+            "Bảng AI sắp xếp lại nhà cung cấp thành nhóm với danh sách mô hình có bộ lọc",
+            "Lumi Models giờ viết chữ ngay trên máy với bốn mô hình miễn phí, Qwen3 và Gemma 3"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.63.0",
       "tag": "lumi-v1.63.0",
       "date": "2026-10-23",
