@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.67.0",
+      "tag": "lumi-v1.67.0",
+      "date": "2026-10-30",
+      "locales": {
+        "en": {
+          "headline": "Media controls for web pages and panels that point at windows",
+          "items": [
+            "A page can now control what its site plays: play, pause, seek, and see the title, artist, artwork and timeline",
+            "A panel beside a window can point an arrow at it and stays open until you close it",
+            "A page is told when its site moves to a new address by itself, not just when you navigate",
+            "Hovering a panel now moves the pointer over the site underneath it too",
+            "Artwork for what a site plays is now the right size on Retina displays",
+            "Media controls now appear as soon as a site starts playing sound"
+          ]
+        },
+        "vi": {
+          "headline": "Điều khiển phương tiện cho trang web và bảng chỉ vào cửa sổ",
+          "items": [
+            "Trang giờ điều khiển nội dung phát: phát, tạm dừng, tua và xem tiêu đề, nghệ sĩ, ảnh bìa, thời lượng",
+            "Bảng bên cạnh cửa sổ có thể chỉ mũi tên vào cửa sổ đó và giữ mở cho đến khi bạn đóng",
+            "Trang được thông báo khi trang web tự chuyển sang địa chỉ mới, không chỉ khi bạn điều hướng",
+            "Di chuột qua bảng giờ cũng di chuyển con trỏ trên trang web bên dưới",
+            "Ảnh bìa của nội dung đang phát giờ có kích thước đúng trên màn hình Retina",
+            "Điều khiển phương tiện giờ xuất hiện ngay khi trang web bắt đầu phát âm thanh"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.66.0",
       "tag": "lumi-v1.66.0",
       "date": "2026-10-30",
