@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.66.0",
+      "tag": "lumi-v1.66.0",
+      "date": "2026-10-30",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Panels can now anchor to other windows",
+          "items": [
+            "A panel can now be positioned next to another window from the same extension"
+          ]
+        },
+        "vi": {
+          "headline": "Panel giờ có thể neo vào cửa sổ khác",
+          "items": [
+            "Panel giờ có thể đặt cạnh cửa sổ khác của cùng một tiện ích mở rộng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.65.0",
       "tag": "lumi-v1.65.0",
       "date": "2026-10-30",
