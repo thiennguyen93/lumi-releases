@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.65.0",
+      "tag": "lumi-v1.65.0",
+      "date": "2026-10-30",
+      "locales": {
+        "en": {
+          "headline": "Switch speech models live, record audio, and more for extensions",
+          "items": [
+            "Switch between speech models during a live transcription without stopping",
+            "Record audio from the microphone or system without transcribing it",
+            "Silero voice activity detection cuts speech more accurately than loudness alone",
+            "Extensions can keep their web pages loaded when windows are hidden",
+            "Extensions can mute individual web pages and hear when pages make sound",
+            "Lumi Models appears as its own provider in AI settings with a built-in tag"
+          ]
+        },
+        "vi": {
+          "headline": "Chuyển mô hình giọng nói trực tiếp, ghi âm và nhiều tính năng khác",
+          "items": [
+            "Chuyển đổi giữa các mô hình giọng nói trong khi phiên âm đang chạy",
+            "Ghi âm từ micro hoặc âm thanh hệ thống mà không cần phiên âm",
+            "Phát hiện hoạt động giọng nói Silero cắt lời nói chính xác hơn độ lớn âm thanh",
+            "Tiện ích có thể giữ trang web đã tải khi cửa sổ bị ẩn",
+            "Tiện ích có thể tắt tiếng từng trang web và biết khi trang phát âm thanh",
+            "Lumi Models xuất hiện như nhà cung cấp riêng trong cài đặt AI với nhãn tích hợp"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.64.0",
       "tag": "lumi-v1.64.0",
       "date": "2026-10-25",
