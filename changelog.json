@@ -3,6 +3,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.67.2",
+      "tag": "lumi-v1.67.2",
+      "date": "2026-10-31",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Backspace now works correctly with text typed through extensions",
+          "items": [
+            "Backspace deletes word by word through text typed via an extension",
+            "Backspace immediately after typing a word through an extension deletes it",
+            "A keyboard shortcut or another app posting a key ends the extension word"
+          ]
+        },
+        "vi": {
+          "headline": "Backspace hoạt động đúng với văn bản gõ qua tiện ích mở rộng",
+          "items": [
+            "Backspace xóa từng từ trong văn bản đã gõ qua tiện ích mở rộng",
+            "Backspace ngay sau khi gõ từ qua tiện ích mở rộng sẽ xóa từ đó",
+            "Phím tắt hoặc ứng dụng khác gửi phím sẽ kết thúc từ của tiện ích mở rộng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.67.0",
       "tag": "lumi-v1.67.0",
       "date": "2026-10-30",
