@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.68.0",
+      "tag": "lumi-v1.68.0",
+      "date": "2026-10-31",
+      "locales": {
+        "en": {
+          "headline": "Typing extensions can now see the words before the current one",
+          "items": [
+            "Typing extensions now see the words before the one you are typing in",
+            "Extensions can capitalize sentences after punctuation and line breaks",
+            "Extensions can match patterns across multiple words like closing quotes"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích gõ giờ thấy được các từ phía trước từ hiện tại",
+          "items": [
+            "Tiện ích gõ giờ thấy được các từ phía trước từ đang gõ",
+            "Tiện ích có thể viết hoa câu sau dấu câu và xuống dòng",
+            "Tiện ích có thể khớp mẫu qua nhiều từ như đóng ngoặc kép"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.67.2",
       "tag": "lumi-v1.67.2",
       "date": "2026-10-31",
