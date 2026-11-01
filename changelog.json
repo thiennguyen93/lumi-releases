@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.72.0",
+      "tag": "lumi-v1.72.0",
+      "date": "2026-11-01",
+      "locales": {
+        "en": {
+          "headline": "Zoom controls and better panel positioning",
+          "items": [
+            "Extensions can now zoom their web content in and out",
+            "Panels can anchor to specific elements instead of entire windows",
+            "Fixed panels and web content misaligning in windows with title bars"
+          ]
+        },
+        "vi": {
+          "headline": "Điều khiển thu phóng và định vị bảng điều khiển tốt hơn",
+          "items": [
+            "Tiện ích giờ có thể phóng to thu nhỏ nội dung web",
+            "Bảng điều khiển có thể neo vào phần tử cụ thể thay vì toàn bộ cửa sổ",
+            "Sửa lỗi bảng điều khiển và nội dung web bị lệch trong cửa sổ có thanh tiêu đề"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.71.0",
       "tag": "lumi-v1.71.0",
       "date": "2026-11-01",
