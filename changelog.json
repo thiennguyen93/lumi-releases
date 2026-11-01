@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.70.0",
+      "tag": "lumi-v1.70.0",
+      "date": "2026-11-01",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Extensions can theme plain windows",
+          "items": [
+            "Extensions can now set the theme of plain windows with title bars"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng có thể đổi giao diện cửa sổ thường",
+          "items": [
+            "Tiện ích mở rộng giờ có thể đặt giao diện cho cửa sổ thường có thanh tiêu đề"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.69.0",
       "tag": "lumi-v1.69.0",
       "date": "2026-11-01",
