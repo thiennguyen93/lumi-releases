@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.69.0",
+      "tag": "lumi-v1.69.0",
+      "date": "2026-11-01",
+      "locales": {
+        "en": {
+          "headline": "Panels can now follow windows as you drag them",
+          "items": [
+            "Panels positioned beside a window can follow it when you move the window around"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng điều khiển giờ có thể theo cửa sổ khi bạn kéo",
+          "items": [
+            "Bảng điều khiển đặt bên cạnh cửa sổ có thể theo nó khi bạn di chuyển cửa sổ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.68.0",
       "tag": "lumi-v1.68.0",
       "date": "2026-10-31",
