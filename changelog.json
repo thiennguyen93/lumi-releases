@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.71.0",
+      "tag": "lumi-v1.71.0",
+      "date": "2026-11-01",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Panels can now fill the screen and return to their original size",
+          "items": [
+            "Panels can fill the screen and shrink back to their original size"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng điều khiển có thể phủ toàn màn hình và thu về ban đầu",
+          "items": [
+            "Bảng điều khiển có thể phủ toàn màn hình và thu nhỏ về kích thước ban đầu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.70.0",
       "tag": "lumi-v1.70.0",
       "date": "2026-11-01",
