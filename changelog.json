@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.73.0",
+      "tag": "lumi-v1.73.0",
+      "date": "2026-11-02",
+      "locales": {
+        "en": {
+          "headline": "Audio levels for what Lumi plays, and media replays from the start",
+          "items": [
+            "Extensions can now show audio levels for what Lumi itself plays",
+            "Media that played to the end now replays from the start when you press Play"
+          ]
+        },
+        "vi": {
+          "headline": "Mức âm thanh cho những gì Lumi phát và phát lại media từ đầu",
+          "items": [
+            "Tiện ích mở rộng giờ có thể hiển thị mức âm thanh cho những gì Lumi phát",
+            "Media đã phát hết giờ sẽ phát lại từ đầu khi bạn nhấn Phát"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.72.0",
       "tag": "lumi-v1.72.0",
       "date": "2026-11-01",
