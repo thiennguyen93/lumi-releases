@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.74.0",
+      "tag": "lumi-v1.74.0",
+      "date": "2026-11-02",
+      "locales": {
+        "en": {
+          "headline": "Extensions can play sounds and the menu updates faster",
+          "items": [
+            "Extensions can play their own sound files through Lumi",
+            "The menu shows which extension is playing sound and lets you stop it",
+            "The menu updates faster when extensions change their rows",
+            "Switching an extension on or off no longer rebuilds the entire menu"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích phát âm thanh và menu cập nhật nhanh hơn",
+          "items": [
+            "Tiện ích có thể phát tệp âm thanh riêng qua Lumi",
+            "Menu hiển thị tiện ích nào đang phát âm thanh và cho phép bạn dừng",
+            "Menu cập nhật nhanh hơn khi tiện ích thay đổi các hàng",
+            "Bật tắt tiện ích không còn xây dựng lại toàn bộ menu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.73.0",
       "tag": "lumi-v1.73.0",
       "date": "2026-11-02",
