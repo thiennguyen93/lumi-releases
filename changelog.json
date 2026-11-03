@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.75.0",
+      "tag": "lumi-v1.75.0",
+      "date": "2026-11-03",
+      "locales": {
+        "en": {
+          "headline": "Windows can now open at the corner of another window",
+          "items": [
+            "A window can open or reappear with its corner aligned to another window's corner",
+            "Works with top-left, top-right, bottom-left, bottom-right, or center alignment",
+            "The window stays on the same display as the window it aligns to"
+          ]
+        },
+        "vi": {
+          "headline": "Cửa sổ giờ có thể mở ở góc của cửa sổ khác",
+          "items": [
+            "Cửa sổ có thể mở hoặc hiện lại với góc thẳng hàng với góc của cửa sổ khác",
+            "Hỗ trợ căn trên trái, trên phải, dưới trái, dưới phải hoặc giữa",
+            "Cửa sổ ở trên cùng màn hình với cửa sổ mà nó căn theo"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.74.0",
       "tag": "lumi-v1.74.0",
       "date": "2026-11-02",
