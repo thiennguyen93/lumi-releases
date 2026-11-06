@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.76.0",
+      "tag": "lumi-v1.76.0",
+      "date": "2026-11-06",
+      "locales": {
+        "en": {
+          "headline": "Panels can now appear beside windows with multiple copies",
+          "items": [
+            "A panel can now stand beside any copy of a window that has multiple instances",
+            "Panels beside windows now borrow the keyboard without dismissing the window"
+          ]
+        },
+        "vi": {
+          "headline": "Bảng điều khiển giờ có thể xuất hiện bên cạnh cửa sổ có nhiều bản sao",
+          "items": [
+            "Bảng điều khiển giờ có thể đứng bên cạnh bất kỳ bản sao nào của cửa sổ có nhiều phiên bản",
+            "Bảng điều khiển bên cạnh cửa sổ giờ mượn bàn phím mà không đóng cửa sổ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.75.0",
       "tag": "lumi-v1.75.0",
       "date": "2026-11-03",
