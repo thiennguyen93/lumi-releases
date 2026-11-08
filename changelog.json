@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.77.0",
+      "tag": "lumi-v1.77.0",
+      "date": "2026-11-08",
+      "locales": {
+        "en": {
+          "headline": "Extensions can mute microphones, and usage reports work long-running",
+          "items": [
+            "Extensions can now mute a microphone and keep it muted until they release it",
+            "The menu bar shows which extension muted your microphone and lets you unmute it",
+            "Muted microphones stay muted if they disconnect and reconnect while the extension holds them",
+            "Usage reports now send once a day even if Lumi runs for weeks without restarting",
+            "Turning off usage reports no longer leaves behind data if a report was still sending"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích tắt tiếng micro, báo cáo hoạt động khi chạy lâu",
+          "items": [
+            "Tiện ích giờ có thể tắt tiếng micro và giữ nó tắt tiếng cho đến khi thả ra",
+            "Thanh menu hiển thị tiện ích nào đã tắt tiếng micro và cho phép bạn bật lại",
+            "Micro bị tắt tiếng vẫn giữ trạng thái khi rút và cắm lại trong khi tiện ích đang giữ",
+            "Báo cáo sử dụng giờ gửi mỗi ngày một lần ngay cả khi Lumi chạy nhiều tuần không khởi động lại",
+            "Tắt báo cáo sử dụng không còn để lại dữ liệu nếu báo cáo đang được gửi"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.76.0",
       "tag": "lumi-v1.76.0",
       "date": "2026-11-06",
