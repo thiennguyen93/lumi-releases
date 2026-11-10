@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.78.0",
+      "tag": "lumi-v1.78.0",
+      "date": "2026-11-10",
+      "locales": {
+        "en": {
+          "headline": "Panels can let clicks pass through to windows underneath",
+          "items": [
+            "Panels can now let clicks and scrolls pass through to apps underneath",
+            "You can make the whole panel clickable or only specific parts of it",
+            "Panels that let everything through cannot hold keyboard focus",
+            "The menu bar shows an option to make a click-through panel clickable again"
+          ]
+        },
+        "vi": {
+          "headline": "Panel có thể cho phép nhấp chuột xuyên qua xuống cửa sổ bên dưới",
+          "items": [
+            "Panel giờ có thể cho phép nhấp chuột và cuộn xuyên qua xuống ứng dụng bên dưới",
+            "Bạn có thể làm toàn bộ panel nhận chuột hoặc chỉ một số vùng cụ thể",
+            "Panel cho phép mọi thứ xuyên qua sẽ không giữ được tiêu điểm bàn phím",
+            "Thanh menu hiển thị tùy chọn để làm panel xuyên qua có thể nhấp được trở lại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.77.0",
       "tag": "lumi-v1.77.0",
       "date": "2026-11-08",
