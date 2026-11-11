@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.79.0",
+      "tag": "lumi-v1.79.0",
+      "date": "2026-11-11",
+      "locales": {
+        "en": {
+          "headline": "Extensions can hold keys, show overlays, and write at the caret",
+          "items": [
+            "A command can run when its key is pressed and again when released",
+            "Extensions can show their own overlays across the screen",
+            "Extensions can insert text at the cursor without replacing a selection",
+            "Extensions can set the Mac's default audio input or output device",
+            "Menu bar items can use their own colors instead of the system's",
+            "Telemetry now reports once per day in UTC instead of drifting later each time"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giữ phím, hiện lớp phủ và ghi tại con trỏ",
+          "items": [
+            "Lệnh có thể chạy khi nhấn phím và chạy lại khi thả phím",
+            "Tiện ích có thể hiện lớp phủ riêng trên màn hình",
+            "Tiện ích có thể chèn văn bản tại con trỏ mà không thay thế vùng chọn",
+            "Tiện ích có thể đặt thiết bị âm thanh đầu vào hoặc đầu ra mặc định của Mac",
+            "Biểu tượng thanh menu có thể dùng màu riêng thay vì màu hệ thống",
+            "Báo cáo từ xa giờ gửi một lần mỗi ngày UTC thay vì trôi dần về sau"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.78.0",
       "tag": "lumi-v1.78.0",
       "date": "2026-11-10",
