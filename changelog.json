@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.80.0",
+      "tag": "lumi-v1.80.0",
+      "date": "2026-11-11",
+      "locales": {
+        "en": {
+          "headline": "Updates found in the background and installed from a card",
+          "items": [
+            "Lumi checks for updates every six hours and shows a card when one is ready",
+            "The menu bar shows what update is waiting and starts the download",
+            "The update card shows progress and counts down five seconds before restart",
+            "Switching off an extension now releases its keyboard shortcuts",
+            "A shortcut aimed at a switched-off extension passes through to other apps"
+          ]
+        },
+        "vi": {
+          "headline": "Tìm bản cập nhật tự động và cài từ thẻ thông báo",
+          "items": [
+            "Lumi kiểm tra bản cập nhật sáu giờ một lần và hiện thẻ khi có phiên bản mới",
+            "Thanh menu hiển thị bản cập nhật đang chờ và bắt đầu tải xuống",
+            "Thẻ cập nhật hiển thị tiến trình và đếm ngược năm giây trước khi khởi động lại",
+            "Tắt tiện ích giờ đây sẽ giải phóng các phím tắt của nó",
+            "Phím tắt hướng đến tiện ích đã tắt sẽ chuyển sang ứng dụng khác"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.79.0",
       "tag": "lumi-v1.79.0",
       "date": "2026-11-11",
