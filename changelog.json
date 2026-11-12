@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.81.0",
+      "tag": "lumi-v1.81.0",
+      "date": "2026-11-12",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now detect when you step away and return",
+          "items": [
+            "Extensions can listen for when the screen locks, the Mac sleeps, or you switch users, and when you return"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ biết khi bạn rời đi và quay lại",
+          "items": [
+            "Tiện ích mở rộng có thể lắng nghe khi màn hình khóa, Mac ngủ, hoặc bạn chuyển người dùng, và khi bạn quay lại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.80.0",
       "tag": "lumi-v1.80.0",
       "date": "2026-11-11",
