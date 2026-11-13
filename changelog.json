@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.82.0",
+      "tag": "lumi-v1.82.0",
+      "date": "2026-11-13",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now open their own page tabs",
+          "items": [
+            "Extensions can open any of their own tabs, including custom pages",
+            "Older version summaries no longer disappear from the store"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giờ có thể mở các tab trang của chính nó",
+          "items": [
+            "Tiện ích có thể mở bất kỳ tab nào của chúng, bao gồm cả trang tùy chỉnh",
+            "Tóm tắt phiên bản cũ không còn biến mất khỏi cửa hàng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.81.0",
       "tag": "lumi-v1.81.0",
       "date": "2026-11-12",
