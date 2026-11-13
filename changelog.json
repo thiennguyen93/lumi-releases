@@ -3,6 +3,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.83.0",
+      "tag": "lumi-v1.83.0",
+      "date": "2026-11-13",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Extension Store videos play in Settings, plus navigation fixes",
+          "items": [
+            "Extension Store demo videos now play inside Settings instead of opening YouTube",
+            "Clicking a video's title in the player now opens it in your browser",
+            "Links dropped onto Settings or other Lumi windows no longer navigate them away"
+          ]
+        },
+        "vi": {
+          "headline": "Video trong Cửa hàng phát trong Cài đặt, cùng sửa lỗi điều hướng",
+          "items": [
+            "Video giới thiệu trong Cửa hàng giờ phát ngay trong Cài đặt thay vì mở YouTube",
+            "Nhấn vào tiêu đề video trong trình phát giờ mở nó trong trình duyệt của bạn",
+            "Kéo thả liên kết vào Cài đặt hay cửa sổ Lumi khác không còn chuyển chúng đi nữa"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.82.0",
       "tag": "lumi-v1.82.0",
       "date": "2026-11-13",
