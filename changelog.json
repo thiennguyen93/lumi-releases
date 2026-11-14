@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.83.1",
+      "tag": "lumi-v1.83.1",
+      "date": "2026-11-14",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Typing Vietnamese works in Google Docs",
+          "items": [
+            "Typing Vietnamese works in Google Docs and similar apps that draw text on a canvas"
+          ]
+        },
+        "vi": {
+          "headline": "Gõ tiếng Việt hoạt động trong Google Docs",
+          "items": [
+            "Gõ tiếng Việt hoạt động trong Google Docs và các ứng dụng tương tự vẽ chữ trên canvas"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.83.0",
       "tag": "lumi-v1.83.0",
       "date": "2026-11-13",
