@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.84.0",
+      "tag": "lumi-v1.84.0",
+      "date": "2026-11-15",
+      "locales": {
+        "en": {
+          "headline": "Update checks now show results in a card instead of opening Settings",
+          "items": [
+            "Check for Updates in the menu bar now shows a card with the result instead of opening Settings",
+            "The update card's What's New text is now easier to read",
+            "The update card no longer has a hard black border in dark mode",
+            "Close buttons on all cards are now consistently placed in the top left corner"
+          ]
+        },
+        "vi": {
+          "headline": "Kiểm tra cập nhật giờ hiện kết quả trong thẻ thay vì mở Cài đặt",
+          "items": [
+            "Kiểm tra cập nhật trong thanh menu giờ hiện thẻ với kết quả thay vì mở Cài đặt",
+            "Văn bản Có gì mới trong thẻ cập nhật giờ dễ đọc hơn",
+            "Thẻ cập nhật không còn viền đen cứng ở chế độ tối",
+            "Nút đóng trên tất cả thẻ giờ được đặt nhất quán ở góc trên bên trái"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.83.2",
       "tag": "lumi-v1.83.2",
       "date": "2026-11-15",
