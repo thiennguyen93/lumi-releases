@@ -3,6 +3,27 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.83.2",
+      "tag": "lumi-v1.83.2",
+      "date": "2026-11-15",
+      "locales": {
+        "en": {
+          "headline": "Text expansion works correctly in Spotlight and similar fields",
+          "items": [
+            "Text expansion now works correctly in Spotlight and other fields that show inline suggestions",
+            "Snippets expand properly in fields that belong to background processes"
+          ]
+        },
+        "vi": {
+          "headline": "Mở rộng văn bản hoạt động đúng trong Spotlight và các trường tương tự",
+          "items": [
+            "Mở rộng văn bản giờ hoạt động đúng trong Spotlight và các trường có gợi ý nội tuyến",
+            "Snippet mở rộng đúng cách trong các trường thuộc về tiến trình nền"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.83.1",
       "tag": "lumi-v1.83.1",
       "date": "2026-11-14",
