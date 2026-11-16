@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.85.0",
+      "tag": "lumi-v1.85.0",
+      "date": "2026-11-16",
+      "locales": {
+        "en": {
+          "headline": "Beta tags for extensions still in development",
+          "items": [
+            "Extensions marked as beta in the store now show a Beta tag next to their name",
+            "The Beta tag appears in the store grid, on extension pages, and in your installed list",
+            "The tag updates automatically when an extension leaves beta, without reinstalling"
+          ]
+        },
+        "vi": {
+          "headline": "Nhãn Beta cho tiện ích đang phát triển",
+          "items": [
+            "Tiện ích được đánh dấu beta trong cửa hàng giờ hiển thị nhãn Beta bên cạnh tên",
+            "Nhãn Beta xuất hiện trong lưới cửa hàng, trang tiện ích và danh sách đã cài",
+            "Nhãn tự động cập nhật khi tiện ích rời giai đoạn beta mà không cần cài lại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.84.0",
       "tag": "lumi-v1.84.0",
       "date": "2026-11-15",
