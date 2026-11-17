@@ -3,6 +3,25 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.86.0",
+      "tag": "lumi-v1.86.0",
+      "date": "2026-11-17",
+      "locales": {
+        "en": {
+          "headline": "Turn extensions on or off with a keyboard shortcut",
+          "items": [
+            "You can now assign a key to enable, disable, or toggle any extension"
+          ]
+        },
+        "vi": {
+          "headline": "Bật tắt tiện ích bằng phím tắt",
+          "items": [
+            "Giờ bạn có thể gán phím để bật, tắt hoặc chuyển đổi bất kỳ tiện ích nào"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.85.0",
       "tag": "lumi-v1.85.0",
       "date": "2026-11-16",
