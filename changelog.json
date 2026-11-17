@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.88.0",
+      "tag": "lumi-v1.88.0",
+      "date": "2026-11-17",
+      "locales": {
+        "en": {
+          "headline": "Extension updates show together and appear in the menu",
+          "items": [
+            "Extension updates now appear on a single card showing all available updates at once",
+            "The menu bar menu shows how many extension updates are waiting and lets you open them",
+            "Extensions can now show only a close button in their window title bars",
+            "Updates that need new permissions show a review option and wait for your decision",
+            "The update card appears alongside other notifications instead of replacing them"
+          ]
+        },
+        "vi": {
+          "headline": "Cập nhật tiện ích hiện cùng nhau và xuất hiện trong menu",
+          "items": [
+            "Các bản cập nhật tiện ích giờ hiện trên một thẻ duy nhất với tất cả bản cập nhật",
+            "Menu thanh menu hiển thị số bản cập nhật tiện ích đang chờ và cho phép bạn mở chúng",
+            "Tiện ích giờ có thể chỉ hiện nút đóng trên thanh tiêu đề cửa sổ",
+            "Bản cập nhật cần quyền mới hiện tùy chọn xem xét và chờ quyết định của bạn",
+            "Thẻ cập nhật xuất hiện cùng các thông báo khác thay vì thay thế chúng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.87.0",
       "tag": "lumi-v1.87.0",
       "date": "2026-11-17",
