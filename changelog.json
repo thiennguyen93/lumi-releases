@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.87.0",
+      "tag": "lumi-v1.87.0",
+      "date": "2026-11-17",
+      "locales": {
+        "en": {
+          "headline": "Models stay loaded, About window layout fix",
+          "items": [
+            "Models now stay loaded after first use for faster responses",
+            "Added setting to free idle models if you prefer to save memory",
+            "Fixed copyright text position in About window"
+          ]
+        },
+        "vi": {
+          "headline": "Giữ model đã tải, sửa cửa sổ About",
+          "items": [
+            "Model giờ được giữ sau lần dùng đầu để phản hồi nhanh hơn",
+            "Thêm tùy chọn giải phóng model không dùng nếu muốn tiết kiệm bộ nhớ",
+            "Sửa vị trí dòng bản quyền trong cửa sổ About"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.86.0",
       "tag": "lumi-v1.86.0",
       "date": "2026-11-17",
