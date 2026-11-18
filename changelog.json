@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.90.0",
+      "tag": "lumi-v1.90.0",
+      "date": "2026-11-18",
+      "locales": {
+        "en": {
+          "headline": "Extensions can open windows beside each other and manage models",
+          "items": [
+            "Extensions can send messages between their own windows",
+            "Extensions can list models, download them, and choose which one to use",
+            "Extensions can open a panel beside another panel, like a submenu beside a menu",
+            "Cancel on a model download now says when it cannot stop the download"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở cửa sổ kế bên nhau và quản lý mô hình",
+          "items": [
+            "Tiện ích gửi thông điệp giữa các cửa sổ của chính nó",
+            "Tiện ích liệt kê mô hình, tải xuống và chọn mô hình để dùng",
+            "Tiện ích mở bảng kế bên bảng khác, như trình đơn con kế bên trình đơn",
+            "Hủy tải mô hình giờ báo khi không thể dừng được"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.89.1",
       "tag": "lumi-v1.89.1",
       "date": "2026-11-18",
