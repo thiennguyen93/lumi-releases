@@ -3,6 +3,26 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.89.1",
+      "tag": "lumi-v1.89.1",
+      "date": "2026-11-18",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Microphone stays muted when you quit",
+          "items": [
+            "Quitting Lumi no longer unmutes a microphone you were holding muted"
+          ]
+        },
+        "vi": {
+          "headline": "Micro vẫn tắt khi thoát ứng dụng",
+          "items": [
+            "Thoát Lumi không còn bật lại micro mà bạn đang giữ tắt"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.89.0",
       "tag": "lumi-v1.89.0",
       "date": "2026-11-18",
