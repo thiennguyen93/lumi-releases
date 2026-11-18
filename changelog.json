@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.89.0",
+      "tag": "lumi-v1.89.0",
+      "date": "2026-11-18",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now create their own apps in Applications",
+          "items": [
+            "Extensions can add an app to your Applications folder that opens them",
+            "Extension apps appear in Spotlight, the Dock, and Launchpad like any other app",
+            "Extensions configure what happens when their app is opened and whether they turn on first",
+            "A new switch lets you show or hide an extension's app in Applications",
+            "Extension apps use a single switches table to set their initial state"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể tạo ứng dụng riêng trong Applications",
+          "items": [
+            "Tiện ích mở rộng có thể thêm ứng dụng vào thư mục Applications để mở chúng",
+            "Ứng dụng tiện ích xuất hiện trong Spotlight, Dock và Launchpad như ứng dụng khác",
+            "Tiện ích cấu hình điều gì xảy ra khi ứng dụng được mở và có bật trước không",
+            "Công tắc mới cho phép hiện hoặc ẩn ứng dụng của tiện ích trong Applications",
+            "Ứng dụng tiện ích dùng một bảng switches để đặt trạng thái ban đầu"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.88.0",
       "tag": "lumi-v1.88.0",
       "date": "2026-11-17",
