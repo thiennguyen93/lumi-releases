@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.91.0",
+      "tag": "lumi-v1.91.0",
+      "date": "2026-11-19",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now lower floating panels behind their own windows",
+          "items": [
+            "Extension panels can drop behind other windows of the same extension",
+            "Panels automatically float again when opened or pinned",
+            "The Unified sample extension now lowers its card when its window has focus"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích mở rộng giờ có thể hạ bảng nổi xuống sau cửa sổ của chính nó",
+          "items": [
+            "Bảng tiện ích có thể xuống sau các cửa sổ khác của cùng tiện ích đó",
+            "Bảng tự động nổi lại khi được mở hoặc ghim",
+            "Tiện ích mẫu Unified giờ hạ thẻ xuống khi cửa sổ của nó đang được dùng"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.90.0",
       "tag": "lumi-v1.90.0",
       "date": "2026-11-18",
