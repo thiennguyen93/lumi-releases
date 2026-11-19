@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.92.0",
+      "tag": "lumi-v1.92.0",
+      "date": "2026-11-19",
+      "locales": {
+        "en": {
+          "headline": "Text requests now respect your Mac's available memory",
+          "items": [
+            "Text requests are limited based on available memory to prevent crashes",
+            "Input limit raised to 100,000 characters and answer limit to 4,096 tokens",
+            "Extensions can check limits before sending text with ai.limits"
+          ]
+        },
+        "vi": {
+          "headline": "Yêu cầu văn bản giờ tôn trọng bộ nhớ khả dụng của Mac",
+          "items": [
+            "Yêu cầu văn bản được giới hạn dựa trên bộ nhớ khả dụng để tránh treo",
+            "Giới hạn đầu vào tăng lên 100.000 ký tự và đầu ra lên 4.096 token",
+            "Tiện ích có thể kiểm tra giới hạn trước khi gửi văn bản bằng ai.limits"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.91.0",
       "tag": "lumi-v1.91.0",
       "date": "2026-11-19",
