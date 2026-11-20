@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.94.0",
+      "tag": "lumi-v1.94.0",
+      "date": "2026-11-20",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now access your calendar and reminders",
+          "items": [
+            "Extensions can request access to your calendar and reminders separately",
+            "Each extension asks for its own permissions instead of sharing one approval",
+            "Extensions can tell you where a file was saved and show it in Finder",
+            "The Permissions sheet now shows which extensions have access to what"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giờ có thể truy cập lịch và nhắc nhở của bạn",
+          "items": [
+            "Tiện ích có thể yêu cầu quyền truy cập lịch và nhắc nhở riêng biệt",
+            "Mỗi tiện ích xin phép riêng thay vì dùng chung một lần chấp thuận",
+            "Tiện ích có thể cho bạn biết file đã lưu ở đâu và hiện trong Finder",
+            "Bảng Quyền giờ hiển thị tiện ích nào có quyền truy cập gì"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.93.0",
       "tag": "lumi-v1.93.0",
       "date": "2026-11-20",
