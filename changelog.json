@@ -3,6 +3,28 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.94.1",
+      "tag": "lumi-v1.94.1",
+      "date": "2026-11-20",
+      "maintenance": true,
+      "locales": {
+        "en": {
+          "headline": "Faster AI model checks and more reliable extension calls",
+          "items": [
+            "AI model checks now share results instead of each waiting a second",
+            "Extension windows can now wait briefly for a free slot instead of failing immediately"
+          ]
+        },
+        "vi": {
+          "headline": "Kiểm tra mô hình AI nhanh hơn và gọi tiện ích ổn định hơn",
+          "items": [
+            "Kiểm tra mô hình AI giờ chia sẻ kết quả thay vì mỗi lần chờ một giây",
+            "Cửa sổ tiện ích giờ có thể chờ một chút để có chỗ trống thay vì lỗi ngay"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.94.0",
       "tag": "lumi-v1.94.0",
       "date": "2026-11-20",
