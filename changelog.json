@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.93.0",
+      "tag": "lumi-v1.93.0",
+      "date": "2026-11-20",
+      "locales": {
+        "en": {
+          "headline": "Extensions can now have settings windows and multi-window panels",
+          "items": [
+            "Extensions can open their own settings window when you press ⌘,",
+            "A panel can now appear beside any of several windows, not just one",
+            "Stored recordings now show progress as they transcribe and can be stopped",
+            "Recordings saved with two audio channels are transcribed as separate sides",
+            "Fixed memory usage when opening large files from extensions"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích giờ có cửa sổ cài đặt và bảng điều khiển đa cửa sổ",
+          "items": [
+            "Tiện ích có thể mở cửa sổ cài đặt riêng khi bạn nhấn ⌘,",
+            "Bảng điều khiển giờ có thể xuất hiện bên cạnh nhiều cửa sổ, không chỉ một",
+            "Bản ghi đã lưu giờ hiện tiến độ khi phiên âm và có thể dừng",
+            "Bản ghi có hai kênh âm thanh được phiên âm thành hai bên riêng biệt",
+            "Sửa việc dùng bộ nhớ khi mở tệp lớn từ tiện ích"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.92.0",
       "tag": "lumi-v1.92.0",
       "date": "2026-11-19",
