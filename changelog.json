@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.95.1",
+      "tag": "lumi-v1.95.1",
+      "date": "2026-11-21",
+      "locales": {
+        "en": {
+          "headline": "Fixes for transcription and recording reliability",
+          "items": [
+            "Language-specific transcription models now work when selected directly",
+            "Failed transcriptions and recordings now stop properly instead of continuing",
+            "The sample extension now saves multiple recordings without conflicts"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi độ tin cậy của phiên âm và ghi âm",
+          "items": [
+            "Các mô hình phiên âm theo ngôn ngữ giờ hoạt động khi chọn trực tiếp",
+            "Phiên âm và ghi âm thất bại giờ dừng đúng cách thay vì tiếp tục",
+            "Tiện ích mở rộng mẫu giờ lưu nhiều bản ghi âm mà không xung đột"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.95.0",
       "tag": "lumi-v1.95.0",
       "date": "2026-11-21",
