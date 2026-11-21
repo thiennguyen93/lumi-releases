@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.96.0",
+      "tag": "lumi-v1.96.0",
+      "date": "2026-11-21",
+      "locales": {
+        "en": {
+          "headline": "Recordings continue through screen locks and remember your choices",
+          "items": [
+            "Recordings now continue when you lock your screen instead of stopping",
+            "A recording that continues from a previous one remembers which app to listen to",
+            "The Transcribe window can continue from the last recording with the same speakers",
+            "Questions that must wait now show the panel and tell you how many are queued",
+            "A voice you name during a recording is labeled immediately in that recording"
+          ]
+        },
+        "vi": {
+          "headline": "Ghi âm tiếp tục khi khóa màn hình và nhớ lựa chọn của bạn",
+          "items": [
+            "Ghi âm giờ tiếp tục khi bạn khóa màn hình thay vì dừng lại",
+            "Ghi âm tiếp theo từ ghi âm trước sẽ nhớ ứng dụng cần nghe",
+            "Cửa sổ Transcribe có thể tiếp tục từ ghi âm cuối với cùng người nói",
+            "Câu hỏi phải chờ giờ hiện bảng điều khiển và cho biết có bao nhiêu câu đang chờ",
+            "Giọng nói bạn đặt tên trong khi ghi âm được gắn nhãn ngay lập tức"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.95.1",
       "tag": "lumi-v1.95.1",
       "date": "2026-11-21",
