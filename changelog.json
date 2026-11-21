@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.95.0",
+      "tag": "lumi-v1.95.0",
+      "date": "2026-11-21",
+      "locales": {
+        "en": {
+          "headline": "More accurate speakers, and words while speaking for extensions",
+          "items": [
+            "Speaker labels are far more accurate when a recording is heard again: one person is no longer many speakers",
+            "A recording an extension keeps starts playing at once, instead of after a long wait",
+            "Extensions can show the words as you say them with a second, lighter model, while another writes each line",
+            "Lumi Models adds Nemotron 3.5 Streaming, made to write the words while they are said"
+          ]
+        },
+        "vi": {
+          "headline": "Nhận diện người nói chính xác hơn, và chữ hiện khi nói cho tiện ích",
+          "items": [
+            "Nhãn người nói chính xác hơn nhiều khi nghe lại bản ghi: một người không còn bị tách thành nhiều người nói",
+            "Bản ghi mà tiện ích lưu giờ phát ngay, không phải chờ lâu",
+            "Tiện ích có thể hiện chữ khi bạn nói bằng một mô hình thứ hai nhẹ hơn, mô hình kia viết từng dòng",
+            "Lumi Models có thêm Nemotron 3.5 Streaming, làm ra để viết chữ ngay khi đang nói"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.94.1",
       "tag": "lumi-v1.94.1",
       "date": "2026-11-20",
