@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.97.0",
+      "tag": "lumi-v1.97.0",
+      "date": "2026-11-22",
+      "locales": {
+        "en": {
+          "headline": "Calendar event notes and more reliable extension runs",
+          "items": [
+            "Calendar event notes can now be read by extensions with permission",
+            "Disabled input fields are now visually dimmed like disabled buttons",
+            "Extension commands are more reliable when multiple pages load at once"
+          ]
+        },
+        "vi": {
+          "headline": "Ghi chú sự kiện lịch và chạy tiện ích ổn định hơn",
+          "items": [
+            "Tiện ích có quyền giờ đây có thể đọc ghi chú của sự kiện lịch",
+            "Trường nhập liệu bị vô hiệu hóa giờ mờ đi như nút bị vô hiệu hóa",
+            "Lệnh tiện ích hoạt động ổn định hơn khi nhiều trang tải cùng lúc"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.96.0",
       "tag": "lumi-v1.96.0",
       "date": "2026-11-21",
