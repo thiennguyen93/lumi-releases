@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.99.0",
+      "tag": "lumi-v1.99.0",
+      "date": "2026-11-24",
+      "locales": {
+        "en": {
+          "headline": "Stopped models can be restarted, and Ask answers without them",
+          "items": [
+            "Lumi Models shows when a model has stopped and lets you try it again",
+            "Changing your embedding model now shows what it is reading and how far along it is",
+            "An extension page can now open Lumi Models in Settings",
+            "When the embedding model is not working, Ask still answers by searching your files for their words",
+            "A message sent to an extension window that is still loading no longer gets lost"
+          ]
+        },
+        "vi": {
+          "headline": "Mô hình đã dừng có thể chạy lại, và Ask vẫn trả lời khi thiếu chúng",
+          "items": [
+            "Lumi Models hiện khi mô hình đã dừng và cho phép bạn thử lại",
+            "Đổi mô hình nhúng giờ cho biết đang đọc gì và đã đọc được bao nhiêu",
+            "Trang tiện ích giờ có thể mở Lumi Models trong Cài đặt",
+            "Khi mô hình nhúng không hoạt động, Ask vẫn trả lời bằng cách tìm theo từ khoá trong tệp của bạn",
+            "Tin nhắn gửi đến cửa sổ tiện ích đang tải không còn bị mất"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.98.0",
       "tag": "lumi-v1.98.0",
       "date": "2026-11-24",
