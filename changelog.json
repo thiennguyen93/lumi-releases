@@ -3,6 +3,35 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.98.0",
+      "tag": "lumi-v1.98.0",
+      "date": "2026-11-24",
+      "locales": {
+        "en": {
+          "headline": "Extensions get assistants that answer with their sources",
+          "items": [
+            "Extensions can now have assistants: ask about a meeting or a document and get answers that cite its lines",
+            "Lumi keeps assistant chats on this Mac and asks before anything goes online; delete them in Settings › AI",
+            "Assistants read the files you add, PDFs, Word documents and pictures, and can answer from Lumi's own help",
+            "Lumi Models adds embedding models to search with; change it and Lumi re-reads libraries in the background",
+            "Thinking set to Off now stops models that can stop, instead of asking them to think a little",
+            "Links in extension pages open in your browser, and a permission switch says when macOS showed no dialog"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích có trợ lý trả lời kèm nguồn trích dẫn",
+          "items": [
+            "Tiện ích giờ có thể có trợ lý: hỏi về một cuộc họp hay tài liệu và nhận câu trả lời trích đúng dòng",
+            "Lumi giữ các cuộc trò chuyện trên máy này và hỏi trước khi gửi gì lên mạng; xoá chúng trong Settings › AI",
+            "Trợ lý đọc được tệp bạn thêm, như PDF, Word và ảnh, và trả lời được từ tài liệu hướng dẫn của Lumi",
+            "Lumi Models có thêm mô hình nhúng để tìm kiếm; đổi mô hình thì Lumi đọc lại thư viện ở chế độ nền",
+            "Mức suy luận Tắt giờ dừng hẳn các mô hình dừng được, thay vì bảo chúng nghĩ ít đi",
+            "Liên kết trong trang tiện ích mở trong trình duyệt, và công tắc quyền báo khi macOS không hiện hộp thoại"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.97.0",
       "tag": "lumi-v1.97.0",
       "date": "2026-11-22",
