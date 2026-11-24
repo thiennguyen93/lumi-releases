@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.100.0",
+      "tag": "lumi-v1.100.0",
+      "date": "2026-11-24",
+      "locales": {
+        "en": {
+          "headline": "Slash commands in agent chats and fixes for Claude Code",
+          "items": [
+            "Agent chats now support slash commands like /clear, /retry, and /think",
+            "Extensions can add their own slash commands to agent chats",
+            "Fixed questions starting with a slash being misread as commands by Claude Code",
+            "The About Lumi card now shows who develops Lumi",
+            "Fixed thinking level being displayed as a thought in agent chats"
+          ]
+        },
+        "vi": {
+          "headline": "Lệnh gạch chéo trong chat agent và sửa lỗi cho Claude Code",
+          "items": [
+            "Chat agent giờ hỗ trợ lệnh gạch chéo như /clear, /retry và /think",
+            "Tiện ích mở rộng có thể thêm lệnh gạch chéo riêng vào chat agent",
+            "Sửa lỗi câu hỏi bắt đầu bằng gạch chéo bị đọc nhầm thành lệnh bởi Claude Code",
+            "Thẻ Giới thiệu Lumi giờ hiển thị ai phát triển Lumi",
+            "Sửa lỗi mức độ suy nghĩ hiển thị như một suy nghĩ trong chat agent"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.99.0",
       "tag": "lumi-v1.99.0",
       "date": "2026-11-24",
