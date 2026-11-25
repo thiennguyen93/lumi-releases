@@ -3,6 +3,33 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.101.0",
+      "tag": "lumi-v1.101.0",
+      "date": "2026-11-25",
+      "locales": {
+        "en": {
+          "headline": "Better search in extension libraries and language detection",
+          "items": [
+            "Extensions can narrow library searches by document facts like dates and tags",
+            "Search in a narrow scope, like one day or meeting, reads its best passages even with no close match",
+            "Language detection can now check many texts in one call instead of one at a time",
+            "Library passages show their correct position when cited in answers",
+            "Extensions without an embedding model can still search libraries by keyword"
+          ]
+        },
+        "vi": {
+          "headline": "Tìm kiếm thư viện tiện ích tốt hơn và nhận diện ngôn ngữ",
+          "items": [
+            "Tiện ích có thể thu hẹp tìm kiếm thư viện theo thông tin tài liệu như ngày tháng và thẻ",
+            "Tìm kiếm trong phạm vi hẹp, như một ngày hay cuộc họp, vẫn đọc đoạn phù hợp nhất dù không đoạn nào thật sát",
+            "Nhận diện ngôn ngữ giờ có thể kiểm tra nhiều văn bản cùng lúc thay vì từng cái một",
+            "Đoạn văn từ thư viện hiển thị đúng vị trí khi được trích dẫn trong câu trả lời",
+            "Tiện ích không có mô hình embedding vẫn tìm kiếm thư viện bằng từ khóa được"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.100.0",
       "tag": "lumi-v1.100.0",
       "date": "2026-11-24",
