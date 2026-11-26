@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.102.1",
+      "tag": "lumi-v1.102.1",
+      "date": "2026-11-26",
+      "locales": {
+        "en": {
+          "headline": "Fixes for flows, offers, and snippet settings",
+          "items": [
+            "Manual flow triggers now say they start with the Run button or a shortcut",
+            "Offer cards no longer lose their embedded pages when the window is redrawn",
+            "Settings help for snippets now points to the correct locations"
+          ]
+        },
+        "vi": {
+          "headline": "Sửa lỗi cho flows, offers và cài đặt snippets",
+          "items": [
+            "Trigger thủ công của flow giờ hiển thị khởi động bằng nút Run hoặc phím tắt",
+            "Thẻ offer không còn mất trang nhúng khi cửa sổ được vẽ lại",
+            "Trợ giúp cài đặt cho snippets giờ trỏ đến đúng vị trí"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.102.0",
       "tag": "lumi-v1.102.0",
       "date": "2026-11-25",
