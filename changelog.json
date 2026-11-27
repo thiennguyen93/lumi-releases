@@ -3,6 +3,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.104.0",
+      "tag": "lumi-v1.104.0",
+      "date": "2026-11-27",
+      "locales": {
+        "en": {
+          "headline": "AI answers now respect each model's own length limits",
+          "items": [
+            "AI answers can now be as long as each model allows instead of stopping at a fixed limit",
+            "Longest answer setting now defaults to each model's own limit with an optional ceiling",
+            "On-device models now use a single context per model that stays loaded between requests",
+            "Claude Code answers now stop correctly at their length limit instead of continuing in broken pieces"
+          ]
+        },
+        "vi": {
+          "headline": "Câu trả lời AI giờ tuân theo giới hạn độ dài của từng mô hình",
+          "items": [
+            "Câu trả lời AI giờ có thể dài bằng mức mô hình cho phép thay vì dừng ở giới hạn cố định",
+            "Cài đặt câu trả lời dài nhất giờ mặc định theo giới hạn của từng mô hình với trần tùy chọn",
+            "Mô hình trên máy giờ dùng một ngữ cảnh duy nhất cho mỗi mô hình và giữ nó giữa các yêu cầu",
+            "Câu trả lời Claude Code giờ dừng đúng ở giới hạn độ dài thay vì tiếp tục thành các mảnh vỡ"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.103.0",
       "tag": "lumi-v1.103.0",
       "date": "2026-11-27",
