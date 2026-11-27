@@ -3,6 +3,29 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "1.103.0",
+      "tag": "lumi-v1.103.0",
+      "date": "2026-11-27",
+      "locales": {
+        "en": {
+          "headline": "Extensions learn what was interrupted, and offer cards work better",
+          "items": [
+            "Extensions now hear when Lumi stopped their tasks, like a recording cut short by quitting",
+            "Offer cards no longer get stuck hovering when an extension page covers them",
+            "Offer cards resize properly even when showing an extension page"
+          ]
+        },
+        "vi": {
+          "headline": "Tiện ích biết việc bị gián đoạn, thẻ đề xuất hoạt động tốt hơn",
+          "items": [
+            "Tiện ích giờ biết khi Lumi dừng tác vụ của chúng, như ghi âm bị cắt do thoát ứng dụng",
+            "Thẻ đề xuất không còn bị kẹt trạng thái di chuột khi trang tiện ích che phủ",
+            "Thẻ đề xuất thay đổi kích thước đúng cách ngay cả khi hiển thị trang tiện ích"
+          ]
+        }
+      }
+    },
+    {
       "version": "1.102.1",
       "tag": "lumi-v1.102.1",
       "date": "2026-11-26",
